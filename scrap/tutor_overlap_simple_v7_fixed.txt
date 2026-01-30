@@ -1,0 +1,1203 @@
+TUTOR SUBJECT OVERLAP ANALYSIS (V7 Fixed - Up to 3 Matches Per Tutor)
+================================================================================
+
+This analysis shows which tutors can best cover for each other.
+IMPORTANT: Each tutor can appear in up to 3 other tutors' match lists.
+Each tutor shows only their top 3 matches.
+Overlap score = (shared subjects) / (total subjects of first tutor)
+
+TUTOR: Aanvi
+Total Subjects: 12
+All Subjects: ECE 205, Math 112, Math 115, Math 220, Math 221, Math 231, Math 241, Math 257, PHYS 211, TAM 210, TAM 212, TAM 251
+Number of Matches: 2
+Total Available (before assignment): 1
+Assignments Used: 7
+
+TOP 3 MATCHES:
+1. Jiya - 66.7% overlap
+   Classes in common: 8
+   Classes Aanvi has that Jiya doesn't: TAM 251, TAM 212, Math 241, TAM 210
+   Classes Jiya has that Aanvi doesn't: PHYS 214, Math 285, MSE 182, CS 101
+
+2. Pallab - 50.0% overlap
+   Classes in common: 6
+   Classes Aanvi has that Pallab doesn't: Math 221, Math 231, Math 112, Math 220, PHYS 211, Math 115
+   Classes Pallab has that Aanvi doesn't: Math 285
+
+--------------------------------------------------------------------------------
+
+TUTOR: Aarnav
+Total Subjects: 7
+All Subjects: Math 241, Math 285, PHYS 211, PHYS 212, PHYS 213, PHYS 214, PHYS 225
+Number of Matches: 4
+Total Available (before assignment): 1
+Assignments Used: 14
+
+TOP 3 MATCHES:
+1. Alex S. - 100.0% overlap
+   Classes in common: 7
+   Classes Aarnav has that Alex S. doesn't: None
+   Classes Alex S. has that Aarnav doesn't: PHYS 325
+
+2. Luke - 85.7% overlap
+   Classes in common: 6
+   Classes Aarnav has that Luke doesn't: PHYS 225
+   Classes Luke has that Aarnav doesn't: Math 257, Math 231 (E)
+
+3. David - 71.4% overlap
+   Classes in common: 5
+   Classes Aarnav has that David doesn't: PHYS 211, PHYS 212
+   Classes David has that Aarnav doesn't: Math 257, CHEM 102, PHYS 325
+
+4. Weiqiong "Liz" - 57.1% overlap
+   Classes in common: 4
+   Classes Aarnav has that Weiqiong "Liz" doesn't: PHYS 211, PHYS 225, PHYS 212
+   Classes Weiqiong "Liz" has that Aarnav doesn't: ECE 120
+
+--------------------------------------------------------------------------------
+
+TUTOR: Aaron
+Total Subjects: 4
+All Subjects: CHEM 102, Math 241, PHYS 211, PHYS 212
+Number of Matches: 4
+Total Available (before assignment): 9
+Assignments Used: 12
+
+TOP 3 MATCHES:
+1. Aarnav - 75.0% overlap
+   Classes in common: 3
+   Classes Aaron has that Aarnav doesn't: CHEM 102
+   Classes Aarnav has that Aaron doesn't: PHYS 214, PHYS 213, Math 285, PHYS 225
+
+2. Alex G. - 75.0% overlap
+   Classes in common: 3
+   Classes Aaron has that Alex G. doesn't: CHEM 102
+   Classes Alex G. has that Aaron doesn't: TAM 212, SE 101 (Revit), PHYS 213, TAM 211, TAM 210
+
+3. Nico - 75.0% overlap
+   Classes in common: 3
+   Classes Aaron has that Nico doesn't: Math 241
+   Classes Nico has that Aaron doesn't: None
+
+4. Norita - 75.0% overlap
+   Classes in common: 3
+   Classes Aaron has that Norita doesn't: CHEM 102
+   Classes Norita has that Aaron doesn't: Math 231 (E)
+
+--------------------------------------------------------------------------------
+
+TUTOR: Aidan
+Total Subjects: 8
+All Subjects: CS 101, Math 241, Math 257, Math 285, PHYS 100, PHYS 211, PHYS 212, TAM 210
+Number of Matches: 3
+Total Available (before assignment): 3
+Assignments Used: 10
+
+TOP 3 MATCHES:
+1. Camila - 75.0% overlap
+   Classes in common: 6
+   Classes Aidan has that Camila doesn't: PHYS 212, CS 101
+   Classes Camila has that Aidan doesn't: SE 101 (Revit), TAM 211
+
+2. Logan - 75.0% overlap
+   Classes in common: 6
+   Classes Aidan has that Logan doesn't: TAM 210, PHYS 100
+   Classes Logan has that Aidan doesn't: ECE 205
+
+3. Eric J.  - 50.0% overlap
+   Classes in common: 4
+   Classes Aidan has that Eric J.  doesn't: PHYS 211, PHYS 212, Math 241, CS 101
+   Classes Eric J.  has that Aidan doesn't: TAM 211
+
+--------------------------------------------------------------------------------
+
+TUTOR: Akshay
+Total Subjects: 11
+All Subjects: CHEM 104, Math 112, Math 115, Math 220, Math 221, Math 231, Math 285, PHYS 211, PHYS 212, TAM 210, TAM 212
+Number of Matches: 2
+Total Available (before assignment): 2
+Assignments Used: 6
+
+TOP 3 MATCHES:
+1. Jiya - 63.6% overlap
+   Classes in common: 7
+   Classes Akshay has that Jiya doesn't: CHEM 104, PHYS 212, TAM 210, TAM 212
+   Classes Jiya has that Akshay doesn't: PHYS 214, MSE 182, Math 257, ECE 205, CS 101
+
+2. Bella - 54.5% overlap
+   Classes in common: 6
+   Classes Akshay has that Bella doesn't: CHEM 104, Math 221, Math 112, Math 220, Math 115
+   Classes Bella has that Akshay doesn't: TAM 251, Math 231 (E)
+
+--------------------------------------------------------------------------------
+
+TUTOR: Alejandro
+Total Subjects: 5
+All Subjects: Math 285, SE 101 (Fusion), TAM 210, TAM 211, TAM 251
+Number of Matches: 3
+Total Available (before assignment): 2
+Assignments Used: 11
+
+TOP 3 MATCHES:
+1. Lucas - 80.0% overlap
+   Classes in common: 4
+   Classes Alejandro has that Lucas doesn't: SE 101 (Fusion)
+   Classes Lucas has that Alejandro doesn't: PHYS 100, Math 257, TAM 212, ECE 120, PHYS 211
+
+2. Bella - 60.0% overlap
+   Classes in common: 3
+   Classes Alejandro has that Bella doesn't: TAM 211, SE 101 (Fusion)
+   Classes Bella has that Alejandro doesn't: PHYS 212, Math 231, TAM 212, Math 231 (E), PHYS 211
+
+3. Eric J.  - 60.0% overlap
+   Classes in common: 3
+   Classes Alejandro has that Eric J.  doesn't: TAM 251, SE 101 (Fusion)
+   Classes Eric J.  has that Alejandro doesn't: Math 257, PHYS 100
+
+--------------------------------------------------------------------------------
+
+TUTOR: Alex G.
+Total Subjects: 8
+All Subjects: Math 241, PHYS 211, PHYS 212, PHYS 213, SE 101 (Revit), TAM 210, TAM 211, TAM 212
+Number of Matches: 2
+Total Available (before assignment): 2
+Assignments Used: 5
+
+TOP 3 MATCHES:
+1. Aman - 62.5% overlap
+   Classes in common: 5
+   Classes Alex G. has that Aman doesn't: SE 101 (Revit), TAM 211, TAM 210
+   Classes Aman has that Alex G. doesn't: Math 257, TAM 251, PHYS 214
+
+2. Teddy - 62.5% overlap
+   Classes in common: 5
+   Classes Alex G. has that Teddy doesn't: SE 101 (Revit), PHYS 213, PHYS 212
+   Classes Teddy has that Alex G. doesn't: CHEM 104, CHEM 102, CHEM 232, Math 285
+
+--------------------------------------------------------------------------------
+
+TUTOR: Alex S.
+Total Subjects: 8
+All Subjects: Math 241, Math 285, PHYS 211, PHYS 212, PHYS 213, PHYS 214, PHYS 225, PHYS 325
+Number of Matches: 4
+Total Available (before assignment): 1
+Assignments Used: 15
+
+TOP 3 MATCHES:
+1. Aarnav - 87.5% overlap
+   Classes in common: 7
+   Classes Alex S. has that Aarnav doesn't: PHYS 325
+   Classes Aarnav has that Alex S. doesn't: None
+
+2. David - 75.0% overlap
+   Classes in common: 6
+   Classes Alex S. has that David doesn't: PHYS 211, PHYS 212
+   Classes David has that Alex S. doesn't: Math 257, CHEM 102
+
+3. Ryan - 62.5% overlap
+   Classes in common: 5
+   Classes Alex S. has that Ryan doesn't: PHYS 325, PHYS 211, Math 241
+   Classes Ryan has that Alex S. doesn't: Math 257, CS 101
+
+4. Weiqiong "Liz" - 50.0% overlap
+   Classes in common: 4
+   Classes Alex S. has that Weiqiong "Liz" doesn't: PHYS 325, PHYS 211, PHYS 225, PHYS 212
+   Classes Weiqiong "Liz" has that Alex S. doesn't: ECE 120
+
+--------------------------------------------------------------------------------
+
+TUTOR: Aman
+Total Subjects: 8
+All Subjects: Math 241, Math 257, PHYS 211, PHYS 212, PHYS 213, PHYS 214, TAM 212, TAM 251
+Number of Matches: 3
+Total Available (before assignment): 1
+Assignments Used: 12
+
+TOP 3 MATCHES:
+1. Luke - 75.0% overlap
+   Classes in common: 6
+   Classes Aman has that Luke doesn't: TAM 251, TAM 212
+   Classes Luke has that Aman doesn't: Math 285, Math 231 (E)
+
+2. Alex G. - 62.5% overlap
+   Classes in common: 5
+   Classes Aman has that Alex G. doesn't: Math 257, TAM 251, PHYS 214
+   Classes Alex G. has that Aman doesn't: SE 101 (Revit), TAM 211, TAM 210
+
+3. Sarah - 50.0% overlap
+   Classes in common: 4
+   Classes Aman has that Sarah doesn't: TAM 251, PHYS 212, Math 241, TAM 212
+   Classes Sarah has that Aman doesn't: ECE 110, ECE 210, Math 285
+
+--------------------------------------------------------------------------------
+
+TUTOR: Andy
+Total Subjects: 4
+All Subjects: MCB 150, Math 241, Math 285, PHYS 211
+Number of Matches: 4
+Total Available (before assignment): 7
+Assignments Used: 15
+
+TOP 3 MATCHES:
+1. Aarnav - 75.0% overlap
+   Classes in common: 3
+   Classes Andy has that Aarnav doesn't: MCB 150
+   Classes Aarnav has that Andy doesn't: PHYS 214, PHYS 212, PHYS 225, PHYS 213
+
+2. Camila - 75.0% overlap
+   Classes in common: 3
+   Classes Andy has that Camila doesn't: MCB 150
+   Classes Camila has that Andy doesn't: PHYS 100, Math 257, SE 101 (Revit), TAM 211, TAM 210
+
+3. Logan - 75.0% overlap
+   Classes in common: 3
+   Classes Andy has that Logan doesn't: MCB 150
+   Classes Logan has that Andy doesn't: Math 257, ECE 205, PHYS 212, CS 101
+
+4. Sean - 75.0% overlap
+   Classes in common: 3
+   Classes Andy has that Sean doesn't: Math 241
+   Classes Sean has that Andy doesn't: CHEM 104, CHEM 102, CHEM 232
+
+--------------------------------------------------------------------------------
+
+TUTOR: Aparna
+Total Subjects: 9
+All Subjects: CHEM 102, CHEM 104, CHEM 232, Math 257, Math 285, PHYS 212, PHYS 213, PHYS 214, PHYS 325
+Number of Matches: 2
+Total Available (before assignment): 1
+Assignments Used: 4
+
+TOP 3 MATCHES:
+1. David - 66.7% overlap
+   Classes in common: 6
+   Classes Aparna has that David doesn't: CHEM 104, PHYS 212, CHEM 232
+   Classes David has that Aparna doesn't: PHYS 225, Math 241
+
+2. Ryan - 55.6% overlap
+   Classes in common: 5
+   Classes Aparna has that Ryan doesn't: PHYS 325, CHEM 104, CHEM 102, CHEM 232
+   Classes Ryan has that Aparna doesn't: PHYS 225, CS 101
+
+--------------------------------------------------------------------------------
+
+TUTOR: Arush
+Total Subjects: 4
+All Subjects: CHEM 102, Math 241, Math 257, Math 285
+Number of Matches: 4
+Total Available (before assignment): 9
+Assignments Used: 16
+
+TOP 3 MATCHES:
+1. David - 100.0% overlap
+   Classes in common: 4
+   Classes Arush has that David doesn't: None
+   Classes David has that Arush doesn't: PHYS 325, PHYS 214, PHYS 213, PHYS 225
+
+2. Aparna - 75.0% overlap
+   Classes in common: 3
+   Classes Arush has that Aparna doesn't: Math 241
+   Classes Aparna has that Arush doesn't: PHYS 214, PHYS 212, PHYS 325, PHYS 213, CHEM 232, CHEM 104
+
+3. Logan - 75.0% overlap
+   Classes in common: 3
+   Classes Arush has that Logan doesn't: CHEM 102
+   Classes Logan has that Arush doesn't: ECE 205, PHYS 211, PHYS 212, CS 101
+
+4. Teddy - 75.0% overlap
+   Classes in common: 3
+   Classes Arush has that Teddy doesn't: Math 257
+   Classes Teddy has that Arush doesn't: TAM 211, TAM 212, CHEM 232, CHEM 104, PHYS 211, TAM 210
+
+--------------------------------------------------------------------------------
+
+TUTOR: Avni
+Total Subjects: 6
+All Subjects: BIOE 201, BIOE 205, CHEM 232, Math 285, PHYS 211, PHYS 212
+Number of Matches: 3
+Total Available (before assignment): 2
+Assignments Used: 10
+
+TOP 3 MATCHES:
+1. Aidan - 50.0% overlap
+   Classes in common: 3
+   Classes Avni has that Aidan doesn't: BIOE 205, BIOE 201, CHEM 232
+   Classes Aidan has that Avni doesn't: PHYS 100, Math 257, Math 241, TAM 210, CS 101
+
+2. Bella - 50.0% overlap
+   Classes in common: 3
+   Classes Avni has that Bella doesn't: BIOE 205, BIOE 201, CHEM 232
+   Classes Bella has that Avni doesn't: Math 231, TAM 212, TAM 251, Math 231 (E), TAM 210
+
+3. Sean - 50.0% overlap
+   Classes in common: 3
+   Classes Avni has that Sean doesn't: BIOE 205, PHYS 212, BIOE 201
+   Classes Sean has that Avni doesn't: CHEM 102, CHEM 104, MCB 150
+
+--------------------------------------------------------------------------------
+
+TUTOR: Bella
+Total Subjects: 8
+All Subjects: Math 231, Math 231 (E), Math 285, PHYS 211, PHYS 212, TAM 210, TAM 212, TAM 251
+Number of Matches: 3
+Total Available (before assignment): 2
+Assignments Used: 12
+
+TOP 3 MATCHES:
+1. Akshay - 75.0% overlap
+   Classes in common: 6
+   Classes Bella has that Akshay doesn't: TAM 251, Math 231 (E)
+   Classes Akshay has that Bella doesn't: CHEM 104, Math 221, Math 112, Math 220, Math 115
+
+2. Diego - 62.5% overlap
+   Classes in common: 5
+   Classes Bella has that Diego doesn't: PHYS 212, Math 231 (E), Math 231
+   Classes Diego has that Bella doesn't: Math 257, Math 241
+
+3. Hriday - 50.0% overlap
+   Classes in common: 4
+   Classes Bella has that Hriday doesn't: TAM 251, TAM 212, Math 231 (E), TAM 210
+   Classes Hriday has that Bella doesn't: Math 220, ECE 110, Math 221
+
+--------------------------------------------------------------------------------
+
+TUTOR: Ben
+Total Subjects: 5
+All Subjects: ECE 205, Math 257, Math 285, TAM 210, TAM 212
+Number of Matches: 3
+Total Available (before assignment): 5
+Assignments Used: 6
+
+TOP 3 MATCHES:
+1. Charlie - 100.0% overlap
+   Classes in common: 5
+   Classes Ben has that Charlie doesn't: None
+   Classes Charlie has that Ben doesn't: TAM 211
+
+2. Pallab - 100.0% overlap
+   Classes in common: 5
+   Classes Ben has that Pallab doesn't: None
+   Classes Pallab has that Ben doesn't: TAM 251, Math 241
+
+3. Maheen - 80.0% overlap
+   Classes in common: 4
+   Classes Ben has that Maheen doesn't: Math 285
+   Classes Maheen has that Ben doesn't: None
+
+--------------------------------------------------------------------------------
+
+TUTOR: Camila
+Total Subjects: 8
+All Subjects: Math 241, Math 257, Math 285, PHYS 100, PHYS 211, SE 101 (Revit), TAM 210, TAM 211
+Number of Matches: 3
+Total Available (before assignment): 2
+Assignments Used: 12
+
+TOP 3 MATCHES:
+1. Aidan - 75.0% overlap
+   Classes in common: 6
+   Classes Camila has that Aidan doesn't: SE 101 (Revit), TAM 211
+   Classes Aidan has that Camila doesn't: PHYS 212, CS 101
+
+2. Diego - 62.5% overlap
+   Classes in common: 5
+   Classes Camila has that Diego doesn't: SE 101 (Revit), TAM 211, PHYS 100
+   Classes Diego has that Camila doesn't: TAM 251, TAM 212
+
+3. Eric J.  - 62.5% overlap
+   Classes in common: 5
+   Classes Camila has that Eric J.  doesn't: SE 101 (Revit), PHYS 211, Math 241
+   Classes Eric J.  has that Camila doesn't: None
+
+--------------------------------------------------------------------------------
+
+TUTOR: Camille W.
+Total Subjects: 6
+All Subjects: ECE 110, ECE 120, ECE 220, Math 241, PHYS 213, PHYS 214
+Number of Matches: 3
+Total Available (before assignment): 3
+Assignments Used: 9
+
+TOP 3 MATCHES:
+1. Johan - 100.0% overlap
+   Classes in common: 6
+   Classes Camille W. has that Johan doesn't: None
+   Classes Johan has that Camille W. doesn't: PHYS 212, Math 257, PHYS 325, ECE 210, Math 285
+
+2. Rick - 83.3% overlap
+   Classes in common: 5
+   Classes Camille W. has that Rick doesn't: PHYS 214
+   Classes Rick has that Camille W. doesn't: Math 257, PHYS 225, ECE 210, Math 285, Math 213
+
+3. Weiqiong "Liz" - 66.7% overlap
+   Classes in common: 4
+   Classes Camille W. has that Weiqiong "Liz" doesn't: ECE 220, ECE 110
+   Classes Weiqiong "Liz" has that Camille W. doesn't: Math 285
+
+--------------------------------------------------------------------------------
+
+TUTOR: Charlie
+Total Subjects: 6
+All Subjects: ECE 205, Math 257, Math 285, TAM 210, TAM 211, TAM 212
+Number of Matches: 4
+Total Available (before assignment): 2
+Assignments Used: 15
+
+TOP 3 MATCHES:
+1. Ben - 83.3% overlap
+   Classes in common: 5
+   Classes Charlie has that Ben doesn't: TAM 211
+   Classes Ben has that Charlie doesn't: None
+
+2. Lucas - 83.3% overlap
+   Classes in common: 5
+   Classes Charlie has that Lucas doesn't: ECE 205
+   Classes Lucas has that Charlie doesn't: TAM 251, ECE 120, PHYS 211, PHYS 100
+
+3. Eric J.  - 66.7% overlap
+   Classes in common: 4
+   Classes Charlie has that Eric J.  doesn't: ECE 205, TAM 212
+   Classes Eric J.  has that Charlie doesn't: PHYS 100
+
+4. Maheen - 66.7% overlap
+   Classes in common: 4
+   Classes Charlie has that Maheen doesn't: Math 285, TAM 211
+   Classes Maheen has that Charlie doesn't: None
+
+--------------------------------------------------------------------------------
+
+TUTOR: David
+Total Subjects: 8
+All Subjects: CHEM 102, Math 241, Math 257, Math 285, PHYS 213, PHYS 214, PHYS 225, PHYS 325
+Number of Matches: 4
+Total Available (before assignment): 1
+Assignments Used: 15
+
+TOP 3 MATCHES:
+1. Alex S. - 75.0% overlap
+   Classes in common: 6
+   Classes David has that Alex S. doesn't: Math 257, CHEM 102
+   Classes Alex S. has that David doesn't: PHYS 211, PHYS 212
+
+2. Aparna - 75.0% overlap
+   Classes in common: 6
+   Classes David has that Aparna doesn't: PHYS 225, Math 241
+   Classes Aparna has that David doesn't: CHEM 104, PHYS 212, CHEM 232
+
+3. Arush - 50.0% overlap
+   Classes in common: 4
+   Classes David has that Arush doesn't: PHYS 325, PHYS 214, PHYS 213, PHYS 225
+   Classes Arush has that David doesn't: None
+
+4. Weiqiong "Liz" - 50.0% overlap
+   Classes in common: 4
+   Classes David has that Weiqiong "Liz" doesn't: Math 257, PHYS 225, PHYS 325, CHEM 102
+   Classes Weiqiong "Liz" has that David doesn't: ECE 120
+
+--------------------------------------------------------------------------------
+
+TUTOR: Diego
+Total Subjects: 7
+All Subjects: Math 241, Math 257, Math 285, PHYS 211, TAM 210, TAM 212, TAM 251
+Number of Matches: 4
+Total Available (before assignment): 1
+Assignments Used: 16
+
+TOP 3 MATCHES:
+1. Lucas - 85.7% overlap
+   Classes in common: 6
+   Classes Diego has that Lucas doesn't: Math 241
+   Classes Lucas has that Diego doesn't: ECE 120, TAM 211, PHYS 100
+
+2. Pallab - 85.7% overlap
+   Classes in common: 6
+   Classes Diego has that Pallab doesn't: PHYS 211
+   Classes Pallab has that Diego doesn't: ECE 205
+
+3. Bella - 71.4% overlap
+   Classes in common: 5
+   Classes Diego has that Bella doesn't: Math 257, Math 241
+   Classes Bella has that Diego doesn't: PHYS 212, Math 231 (E), Math 231
+
+4. Ben - 57.1% overlap
+   Classes in common: 4
+   Classes Diego has that Ben doesn't: TAM 251, PHYS 211, Math 241
+   Classes Ben has that Diego doesn't: ECE 205
+
+--------------------------------------------------------------------------------
+
+TUTOR: Eric J. 
+Total Subjects: 5
+All Subjects: Math 257, Math 285, PHYS 100, TAM 210, TAM 211
+Number of Matches: 4
+Total Available (before assignment): 2
+Assignments Used: 13
+
+TOP 3 MATCHES:
+1. Camila - 100.0% overlap
+   Classes in common: 5
+   Classes Eric J.  has that Camila doesn't: None
+   Classes Camila has that Eric J.  doesn't: SE 101 (Revit), PHYS 211, Math 241
+
+2. Lucas - 100.0% overlap
+   Classes in common: 5
+   Classes Eric J.  has that Lucas doesn't: None
+   Classes Lucas has that Eric J.  doesn't: PHYS 211, TAM 251, TAM 212, ECE 120
+
+3. Charlie - 80.0% overlap
+   Classes in common: 4
+   Classes Eric J.  has that Charlie doesn't: PHYS 100
+   Classes Charlie has that Eric J.  doesn't: ECE 205, TAM 212
+
+4. Alejandro - 60.0% overlap
+   Classes in common: 3
+   Classes Eric J.  has that Alejandro doesn't: Math 257, PHYS 100
+   Classes Alejandro has that Eric J.  doesn't: TAM 251, SE 101 (Fusion)
+
+--------------------------------------------------------------------------------
+
+TUTOR: Hriday
+Total Subjects: 7
+All Subjects: ECE 110, Math 220, Math 221, Math 231, Math 285, PHYS 211, PHYS 212
+Number of Matches: 4
+Total Available (before assignment): 1
+Assignments Used: 12
+
+TOP 3 MATCHES:
+1. Akshay - 85.7% overlap
+   Classes in common: 6
+   Classes Hriday has that Akshay doesn't: ECE 110
+   Classes Akshay has that Hriday doesn't: TAM 212, Math 112, CHEM 104, Math 115, TAM 210
+
+2. Jiya - 71.4% overlap
+   Classes in common: 5
+   Classes Hriday has that Jiya doesn't: PHYS 212, ECE 110
+   Classes Jiya has that Hriday doesn't: PHYS 214, MSE 182, Math 257, Math 112, ECE 205, Math 115, CS 101
+
+3. Patrick - 57.1% overlap
+   Classes in common: 4
+   Classes Hriday has that Patrick doesn't: Math 285, PHYS 212, ECE 110
+   Classes Patrick has that Hriday doesn't: PHYS 100
+
+4. Yaseen - 57.1% overlap
+   Classes in common: 4
+   Classes Hriday has that Yaseen doesn't: Math 285, PHYS 212, ECE 110
+   Classes Yaseen has that Hriday doesn't: CHEM 102, CHEM 101
+
+--------------------------------------------------------------------------------
+
+TUTOR: Jiya
+Total Subjects: 12
+All Subjects: CS 101, ECE 205, MSE 182, Math 112, Math 115, Math 220, Math 221, Math 231, Math 257, Math 285, PHYS 211, PHYS 214
+Number of Matches: 2
+Total Available (before assignment): 2
+Assignments Used: 2
+
+TOP 3 MATCHES:
+1. Aanvi - 66.7% overlap
+   Classes in common: 8
+   Classes Jiya has that Aanvi doesn't: PHYS 214, Math 285, MSE 182, CS 101
+   Classes Aanvi has that Jiya doesn't: TAM 251, TAM 212, Math 241, TAM 210
+
+2. Akshay - 58.3% overlap
+   Classes in common: 7
+   Classes Jiya has that Akshay doesn't: PHYS 214, MSE 182, Math 257, ECE 205, CS 101
+   Classes Akshay has that Jiya doesn't: CHEM 104, PHYS 212, TAM 210, TAM 212
+
+--------------------------------------------------------------------------------
+
+TUTOR: Johail
+Total Subjects: 5
+All Subjects: ECE 110, ECE 210, Math 241, Math 347, PHYS 211
+Number of Matches: 2
+Total Available (before assignment): 1
+Assignments Used: 7
+
+TOP 3 MATCHES:
+1. Kewal - 80.0% overlap
+   Classes in common: 4
+   Classes Johail has that Kewal doesn't: Math 347
+   Classes Kewal has that Johail doesn't: PHYS 214, PHYS 212, ECE 120, Math 231 (E), Math 285
+
+2. Sarah - 60.0% overlap
+   Classes in common: 3
+   Classes Johail has that Sarah doesn't: Math 241, Math 347
+   Classes Sarah has that Johail doesn't: Math 257, PHYS 214, Math 285, PHYS 213
+
+--------------------------------------------------------------------------------
+
+TUTOR: Johan
+Total Subjects: 11
+All Subjects: ECE 110, ECE 120, ECE 210, ECE 220, Math 241, Math 257, Math 285, PHYS 212, PHYS 213, PHYS 214, PHYS 325
+Number of Matches: 3
+Total Available (before assignment): 1
+Assignments Used: 11
+
+TOP 3 MATCHES:
+1. Rick - 72.7% overlap
+   Classes in common: 8
+   Classes Johan has that Rick doesn't: PHYS 325, PHYS 214, PHYS 212
+   Classes Rick has that Johan doesn't: PHYS 225, Math 213
+
+2. Camille W. - 54.5% overlap
+   Classes in common: 6
+   Classes Johan has that Camille W. doesn't: PHYS 212, Math 257, PHYS 325, ECE 210, Math 285
+   Classes Camille W. has that Johan doesn't: None
+
+3. Sushrut - 54.5% overlap
+   Classes in common: 6
+   Classes Johan has that Sushrut doesn't: PHYS 214, PHYS 212, PHYS 325, PHYS 213, Math 241
+   Classes Sushrut has that Johan doesn't: Math 231 (E)
+
+--------------------------------------------------------------------------------
+
+TUTOR: Kewal
+Total Subjects: 9
+All Subjects: ECE 110, ECE 120, ECE 210, Math 231 (E), Math 241, Math 285, PHYS 211, PHYS 212, PHYS 214
+Number of Matches: 3
+Total Available (before assignment): 1
+Assignments Used: 11
+
+TOP 3 MATCHES:
+1. Luke - 66.7% overlap
+   Classes in common: 6
+   Classes Kewal has that Luke doesn't: ECE 210, ECE 110, ECE 120
+   Classes Luke has that Kewal doesn't: Math 257, PHYS 213
+
+2. Sarah - 55.6% overlap
+   Classes in common: 5
+   Classes Kewal has that Sarah doesn't: PHYS 212, Math 231 (E), Math 241, ECE 120
+   Classes Sarah has that Kewal doesn't: Math 257, PHYS 213
+
+3. Sushrut - 55.6% overlap
+   Classes in common: 5
+   Classes Kewal has that Sushrut doesn't: PHYS 211, PHYS 214, PHYS 212, Math 241
+   Classes Sushrut has that Kewal doesn't: Math 257, ECE 220
+
+--------------------------------------------------------------------------------
+
+TUTOR: Kristie
+Total Subjects: 5
+All Subjects: ECE 110, ECE 120, Math 285, PHYS 100, PHYS 212
+Number of Matches: 3
+Total Available (before assignment): 1
+Assignments Used: 10
+
+TOP 3 MATCHES:
+1. Kewal - 80.0% overlap
+   Classes in common: 4
+   Classes Kristie has that Kewal doesn't: PHYS 100
+   Classes Kewal has that Kristie doesn't: PHYS 214, ECE 210, Math 231 (E), Math 241, PHYS 211
+
+2. Hriday - 60.0% overlap
+   Classes in common: 3
+   Classes Kristie has that Hriday doesn't: ECE 120, PHYS 100
+   Classes Hriday has that Kristie doesn't: Math 220, PHYS 211, Math 231, Math 221
+
+3. Sushrut - 60.0% overlap
+   Classes in common: 3
+   Classes Kristie has that Sushrut doesn't: PHYS 212, PHYS 100
+   Classes Sushrut has that Kristie doesn't: Math 257, ECE 210, ECE 220, Math 231 (E)
+
+--------------------------------------------------------------------------------
+
+TUTOR: Logan
+Total Subjects: 7
+All Subjects: CS 101, ECE 205, Math 241, Math 257, Math 285, PHYS 211, PHYS 212
+Number of Matches: 3
+Total Available (before assignment): 2
+Assignments Used: 12
+
+TOP 3 MATCHES:
+1. Aidan - 85.7% overlap
+   Classes in common: 6
+   Classes Logan has that Aidan doesn't: ECE 205
+   Classes Aidan has that Logan doesn't: TAM 210, PHYS 100
+
+2. Jiya - 71.4% overlap
+   Classes in common: 5
+   Classes Logan has that Jiya doesn't: PHYS 212, Math 241
+   Classes Jiya has that Logan doesn't: PHYS 214, MSE 182, Math 221, Math 231, Math 112, Math 220, Math 115
+
+3. Pallab - 57.1% overlap
+   Classes in common: 4
+   Classes Logan has that Pallab doesn't: PHYS 211, PHYS 212, CS 101
+   Classes Pallab has that Logan doesn't: TAM 251, TAM 212, TAM 210
+
+--------------------------------------------------------------------------------
+
+TUTOR: Lucas
+Total Subjects: 9
+All Subjects: ECE 120, Math 257, Math 285, PHYS 100, PHYS 211, TAM 210, TAM 211, TAM 212, TAM 251
+Number of Matches: 3
+Total Available (before assignment): 1
+Assignments Used: 11
+
+TOP 3 MATCHES:
+1. Camila - 66.7% overlap
+   Classes in common: 6
+   Classes Lucas has that Camila doesn't: TAM 251, TAM 212, ECE 120
+   Classes Camila has that Lucas doesn't: SE 101 (Revit), Math 241
+
+2. Diego - 66.7% overlap
+   Classes in common: 6
+   Classes Lucas has that Diego doesn't: ECE 120, TAM 211, PHYS 100
+   Classes Diego has that Lucas doesn't: Math 241
+
+3. Teddy - 55.6% overlap
+   Classes in common: 5
+   Classes Lucas has that Teddy doesn't: Math 257, TAM 251, ECE 120, PHYS 100
+   Classes Teddy has that Lucas doesn't: CHEM 104, CHEM 102, CHEM 232, Math 241
+
+--------------------------------------------------------------------------------
+
+TUTOR: Luke
+Total Subjects: 8
+All Subjects: Math 231 (E), Math 241, Math 257, Math 285, PHYS 211, PHYS 212, PHYS 213, PHYS 214
+Number of Matches: 4
+Total Available (before assignment): 2
+Assignments Used: 16
+
+TOP 3 MATCHES:
+1. Aarnav - 75.0% overlap
+   Classes in common: 6
+   Classes Luke has that Aarnav doesn't: Math 257, Math 231 (E)
+   Classes Aarnav has that Luke doesn't: PHYS 225
+
+2. Aman - 75.0% overlap
+   Classes in common: 6
+   Classes Luke has that Aman doesn't: Math 285, Math 231 (E)
+   Classes Aman has that Luke doesn't: TAM 251, TAM 212
+
+3. Ryan - 62.5% overlap
+   Classes in common: 5
+   Classes Luke has that Ryan doesn't: PHYS 211, Math 231 (E), Math 241
+   Classes Ryan has that Luke doesn't: PHYS 225, CS 101
+
+4. Norita - 50.0% overlap
+   Classes in common: 4
+   Classes Luke has that Norita doesn't: Math 257, PHYS 214, Math 285, PHYS 213
+   Classes Norita has that Luke doesn't: None
+
+--------------------------------------------------------------------------------
+
+TUTOR: Maanvi
+Total Subjects: 2
+All Subjects: Math 241, Math 257
+Number of Matches: 4
+Total Available (before assignment): 12
+Assignments Used: 15
+
+TOP 3 MATCHES:
+1. Aanvi - 100.0% overlap
+   Classes in common: 2
+   Classes Maanvi has that Aanvi doesn't: None
+   Classes Aanvi has that Maanvi doesn't: Math 221, Math 231, TAM 212, Math 112, ECE 205, TAM 251, Math 220, PHYS 211, Math 115, TAM 210
+
+2. Aidan - 100.0% overlap
+   Classes in common: 2
+   Classes Maanvi has that Aidan doesn't: None
+   Classes Aidan has that Maanvi doesn't: PHYS 212, CS 101, PHYS 100, Math 285, PHYS 211, TAM 210
+
+3. Aman - 100.0% overlap
+   Classes in common: 2
+   Classes Maanvi has that Aman doesn't: None
+   Classes Aman has that Maanvi doesn't: PHYS 214, PHYS 212, TAM 212, TAM 251, PHYS 213, PHYS 211
+
+4. Arush - 100.0% overlap
+   Classes in common: 2
+   Classes Maanvi has that Arush doesn't: None
+   Classes Arush has that Maanvi doesn't: CHEM 102, Math 285
+
+--------------------------------------------------------------------------------
+
+TUTOR: Maheen
+Total Subjects: 4
+All Subjects: ECE 205, Math 257, TAM 210, TAM 212
+Number of Matches: 3
+Total Available (before assignment): 6
+Assignments Used: 9
+
+TOP 3 MATCHES:
+1. Aanvi - 100.0% overlap
+   Classes in common: 4
+   Classes Maheen has that Aanvi doesn't: None
+   Classes Aanvi has that Maheen doesn't: Math 221, Math 231, Math 112, TAM 251, Math 241, Math 220, PHYS 211, Math 115
+
+2. Ben - 100.0% overlap
+   Classes in common: 4
+   Classes Maheen has that Ben doesn't: None
+   Classes Ben has that Maheen doesn't: Math 285
+
+3. Charlie - 100.0% overlap
+   Classes in common: 4
+   Classes Maheen has that Charlie doesn't: None
+   Classes Charlie has that Maheen doesn't: Math 285, TAM 211
+
+--------------------------------------------------------------------------------
+
+TUTOR: Nehan
+Total Subjects: 3
+All Subjects: Math 241, Math 257, PHYS 211
+Number of Matches: 4
+Total Available (before assignment): 6
+Assignments Used: 16
+
+TOP 3 MATCHES:
+1. Aanvi - 100.0% overlap
+   Classes in common: 3
+   Classes Nehan has that Aanvi doesn't: None
+   Classes Aanvi has that Nehan doesn't: Math 221, Math 231, TAM 212, Math 112, ECE 205, TAM 251, Math 220, Math 115, TAM 210
+
+2. Aman - 100.0% overlap
+   Classes in common: 3
+   Classes Nehan has that Aman doesn't: None
+   Classes Aman has that Nehan doesn't: PHYS 214, PHYS 212, TAM 212, TAM 251, PHYS 213
+
+3. Logan - 100.0% overlap
+   Classes in common: 3
+   Classes Nehan has that Logan doesn't: None
+   Classes Logan has that Nehan doesn't: ECE 205, Math 285, PHYS 212, CS 101
+
+4. Aaron - 66.7% overlap
+   Classes in common: 2
+   Classes Nehan has that Aaron doesn't: Math 257
+   Classes Aaron has that Nehan doesn't: CHEM 102, PHYS 212
+
+--------------------------------------------------------------------------------
+
+TUTOR: Nico
+Total Subjects: 3
+All Subjects: CHEM 102, PHYS 211, PHYS 212
+Number of Matches: 4
+Total Available (before assignment): 4
+Assignments Used: 11
+
+TOP 3 MATCHES:
+1. Aaron - 100.0% overlap
+   Classes in common: 3
+   Classes Nico has that Aaron doesn't: None
+   Classes Aaron has that Nico doesn't: Math 241
+
+2. Alex G. - 66.7% overlap
+   Classes in common: 2
+   Classes Nico has that Alex G. doesn't: CHEM 102
+   Classes Alex G. has that Nico doesn't: TAM 212, SE 101 (Revit), PHYS 213, Math 241, TAM 211, TAM 210
+
+3. Avni - 66.7% overlap
+   Classes in common: 2
+   Classes Nico has that Avni doesn't: CHEM 102
+   Classes Avni has that Nico doesn't: BIOE 205, Math 285, BIOE 201, CHEM 232
+
+4. Norita - 66.7% overlap
+   Classes in common: 2
+   Classes Nico has that Norita doesn't: CHEM 102
+   Classes Norita has that Nico doesn't: Math 231 (E), Math 241
+
+--------------------------------------------------------------------------------
+
+TUTOR: Norita
+Total Subjects: 4
+All Subjects: Math 231 (E), Math 241, PHYS 211, PHYS 212
+Number of Matches: 4
+Total Available (before assignment): 6
+Assignments Used: 13
+
+TOP 3 MATCHES:
+1. Kewal - 100.0% overlap
+   Classes in common: 4
+   Classes Norita has that Kewal doesn't: None
+   Classes Kewal has that Norita doesn't: PHYS 214, ECE 120, ECE 210, Math 285, ECE 110
+
+2. Luke - 100.0% overlap
+   Classes in common: 4
+   Classes Norita has that Luke doesn't: None
+   Classes Luke has that Norita doesn't: Math 257, PHYS 214, Math 285, PHYS 213
+
+3. Aaron - 75.0% overlap
+   Classes in common: 3
+   Classes Norita has that Aaron doesn't: Math 231 (E)
+   Classes Aaron has that Norita doesn't: CHEM 102
+
+4. Yashwanth - 75.0% overlap
+   Classes in common: 3
+   Classes Norita has that Yashwanth doesn't: PHYS 211
+   Classes Yashwanth has that Norita doesn't: CHEM 102
+
+--------------------------------------------------------------------------------
+
+TUTOR: Pallab
+Total Subjects: 7
+All Subjects: ECE 205, Math 241, Math 257, Math 285, TAM 210, TAM 212, TAM 251
+Number of Matches: 4
+Total Available (before assignment): 1
+Assignments Used: 14
+
+TOP 3 MATCHES:
+1. Diego - 85.7% overlap
+   Classes in common: 6
+   Classes Pallab has that Diego doesn't: ECE 205
+   Classes Diego has that Pallab doesn't: PHYS 211
+
+2. Ben - 71.4% overlap
+   Classes in common: 5
+   Classes Pallab has that Ben doesn't: TAM 251, Math 241
+   Classes Ben has that Pallab doesn't: None
+
+3. Charlie - 71.4% overlap
+   Classes in common: 5
+   Classes Pallab has that Charlie doesn't: TAM 251, Math 241
+   Classes Charlie has that Pallab doesn't: TAM 211
+
+4. Maheen - 57.1% overlap
+   Classes in common: 4
+   Classes Pallab has that Maheen doesn't: TAM 251, Math 285, Math 241
+   Classes Maheen has that Pallab doesn't: None
+
+--------------------------------------------------------------------------------
+
+TUTOR: Patrick
+Total Subjects: 5
+All Subjects: Math 220, Math 221, Math 231, PHYS 100, PHYS 211
+Number of Matches: 3
+Total Available (before assignment): 1
+Assignments Used: 9
+
+TOP 3 MATCHES:
+1. Akshay - 80.0% overlap
+   Classes in common: 4
+   Classes Patrick has that Akshay doesn't: PHYS 100
+   Classes Akshay has that Patrick doesn't: PHYS 212, TAM 212, Math 112, CHEM 104, Math 285, Math 115, TAM 210
+
+2. Hriday - 80.0% overlap
+   Classes in common: 4
+   Classes Patrick has that Hriday doesn't: PHYS 100
+   Classes Hriday has that Patrick doesn't: Math 285, PHYS 212, ECE 110
+
+3. Yaseen - 80.0% overlap
+   Classes in common: 4
+   Classes Patrick has that Yaseen doesn't: PHYS 100
+   Classes Yaseen has that Patrick doesn't: CHEM 102, CHEM 101
+
+--------------------------------------------------------------------------------
+
+TUTOR: Rick
+Total Subjects: 10
+All Subjects: ECE 110, ECE 120, ECE 210, ECE 220, Math 213, Math 241, Math 257, Math 285, PHYS 213, PHYS 225
+Number of Matches: 2
+Total Available (before assignment): 3
+Assignments Used: 2
+
+TOP 3 MATCHES:
+1. Sushrut - 60.0% overlap
+   Classes in common: 6
+   Classes Rick has that Sushrut doesn't: PHYS 225, Math 213, Math 241, PHYS 213
+   Classes Sushrut has that Rick doesn't: Math 231 (E)
+
+2. Camille W. - 50.0% overlap
+   Classes in common: 5
+   Classes Rick has that Camille W. doesn't: Math 257, PHYS 225, ECE 210, Math 285, Math 213
+   Classes Camille W. has that Rick doesn't: PHYS 214
+
+--------------------------------------------------------------------------------
+
+TUTOR: Ryan
+Total Subjects: 7
+All Subjects: CS 101, Math 257, Math 285, PHYS 212, PHYS 213, PHYS 214, PHYS 225
+Number of Matches: 2
+Total Available (before assignment): 5
+Assignments Used: 8
+
+TOP 3 MATCHES:
+1. Alex S. - 71.4% overlap
+   Classes in common: 5
+   Classes Ryan has that Alex S. doesn't: Math 257, CS 101
+   Classes Alex S. has that Ryan doesn't: PHYS 325, PHYS 211, Math 241
+
+2. Aparna - 71.4% overlap
+   Classes in common: 5
+   Classes Ryan has that Aparna doesn't: PHYS 225, CS 101
+   Classes Aparna has that Ryan doesn't: PHYS 325, CHEM 104, CHEM 102, CHEM 232
+
+--------------------------------------------------------------------------------
+
+TUTOR: Sarah
+Total Subjects: 7
+All Subjects: ECE 110, ECE 210, Math 257, Math 285, PHYS 211, PHYS 213, PHYS 214
+Number of Matches: 3
+Total Available (before assignment): 2
+Assignments Used: 11
+
+TOP 3 MATCHES:
+1. Johan - 85.7% overlap
+   Classes in common: 6
+   Classes Sarah has that Johan doesn't: PHYS 211
+   Classes Johan has that Sarah doesn't: PHYS 212, ECE 120, PHYS 325, ECE 220, Math 241
+
+2. Rick - 71.4% overlap
+   Classes in common: 5
+   Classes Sarah has that Rick doesn't: PHYS 214, PHYS 211
+   Classes Rick has that Sarah doesn't: PHYS 225, ECE 120, ECE 220, Math 241, Math 213
+
+3. Ryan - 57.1% overlap
+   Classes in common: 4
+   Classes Sarah has that Ryan doesn't: ECE 210, PHYS 211, ECE 110
+   Classes Ryan has that Sarah doesn't: PHYS 225, PHYS 212, CS 101
+
+--------------------------------------------------------------------------------
+
+TUTOR: Sean
+Total Subjects: 6
+All Subjects: CHEM 102, CHEM 104, CHEM 232, MCB 150, Math 285, PHYS 211
+Number of Matches: 4
+Total Available (before assignment): 1
+Assignments Used: 11
+
+TOP 3 MATCHES:
+1. Teddy - 83.3% overlap
+   Classes in common: 5
+   Classes Sean has that Teddy doesn't: MCB 150
+   Classes Teddy has that Sean doesn't: TAM 211, TAM 210, Math 241, TAM 212
+
+2. Aparna - 66.7% overlap
+   Classes in common: 4
+   Classes Sean has that Aparna doesn't: MCB 150, PHYS 211
+   Classes Aparna has that Sean doesn't: PHYS 214, PHYS 212, Math 257, PHYS 325, PHYS 213
+
+3. Andy - 50.0% overlap
+   Classes in common: 3
+   Classes Sean has that Andy doesn't: CHEM 104, CHEM 102, CHEM 232
+   Classes Andy has that Sean doesn't: Math 241
+
+4. Avni - 50.0% overlap
+   Classes in common: 3
+   Classes Sean has that Avni doesn't: CHEM 102, CHEM 104, MCB 150
+   Classes Avni has that Sean doesn't: BIOE 205, PHYS 212, BIOE 201
+
+--------------------------------------------------------------------------------
+
+TUTOR: Sushrut
+Total Subjects: 7
+All Subjects: ECE 110, ECE 120, ECE 210, ECE 220, Math 231 (E), Math 257, Math 285
+Number of Matches: 4
+Total Available (before assignment): 4
+Assignments Used: 4
+
+TOP 3 MATCHES:
+1. Johan - 85.7% overlap
+   Classes in common: 6
+   Classes Sushrut has that Johan doesn't: Math 231 (E)
+   Classes Johan has that Sushrut doesn't: PHYS 214, PHYS 212, PHYS 325, PHYS 213, Math 241
+
+2. Rick - 85.7% overlap
+   Classes in common: 6
+   Classes Sushrut has that Rick doesn't: Math 231 (E)
+   Classes Rick has that Sushrut doesn't: PHYS 225, Math 213, Math 241, PHYS 213
+
+3. Kewal - 71.4% overlap
+   Classes in common: 5
+   Classes Sushrut has that Kewal doesn't: Math 257, ECE 220
+   Classes Kewal has that Sushrut doesn't: PHYS 211, PHYS 214, PHYS 212, Math 241
+
+4. Sarah - 57.1% overlap
+   Classes in common: 4
+   Classes Sushrut has that Sarah doesn't: ECE 220, Math 231 (E), ECE 120
+   Classes Sarah has that Sushrut doesn't: PHYS 214, PHYS 211, PHYS 213
+
+--------------------------------------------------------------------------------
+
+TUTOR: Teddy
+Total Subjects: 9
+All Subjects: CHEM 102, CHEM 104, CHEM 232, Math 241, Math 285, PHYS 211, TAM 210, TAM 211, TAM 212
+Number of Matches: 2
+Total Available (before assignment): 1
+Assignments Used: 5
+
+TOP 3 MATCHES:
+1. Alex G. - 55.6% overlap
+   Classes in common: 5
+   Classes Teddy has that Alex G. doesn't: CHEM 104, CHEM 102, CHEM 232, Math 285
+   Classes Alex G. has that Teddy doesn't: SE 101 (Revit), PHYS 213, PHYS 212
+
+2. Sean - 55.6% overlap
+   Classes in common: 5
+   Classes Teddy has that Sean doesn't: TAM 211, TAM 210, Math 241, TAM 212
+   Classes Sean has that Teddy doesn't: MCB 150
+
+--------------------------------------------------------------------------------
+
+TUTOR: Weiqiong "Liz"
+Total Subjects: 5
+All Subjects: ECE 120, Math 241, Math 285, PHYS 213, PHYS 214
+Number of Matches: 3
+Total Available (before assignment): 3
+Assignments Used: 11
+
+TOP 3 MATCHES:
+1. Johan - 100.0% overlap
+   Classes in common: 5
+   Classes Weiqiong "Liz" has that Johan doesn't: None
+   Classes Johan has that Weiqiong "Liz" doesn't: PHYS 212, Math 257, PHYS 325, ECE 210, ECE 220, ECE 110
+
+2. Alex S. - 80.0% overlap
+   Classes in common: 4
+   Classes Weiqiong "Liz" has that Alex S. doesn't: ECE 120
+   Classes Alex S. has that Weiqiong "Liz" doesn't: PHYS 325, PHYS 211, PHYS 225, PHYS 212
+
+3. Camille W. - 80.0% overlap
+   Classes in common: 4
+   Classes Weiqiong "Liz" has that Camille W. doesn't: Math 285
+   Classes Camille W. has that Weiqiong "Liz" doesn't: ECE 220, ECE 110
+
+--------------------------------------------------------------------------------
+
+TUTOR: Yaseen
+Total Subjects: 6
+All Subjects: CHEM 101, CHEM 102, Math 220, Math 221, Math 231, PHYS 211
+Number of Matches: 2
+Total Available (before assignment): 1
+Assignments Used: 4
+
+TOP 3 MATCHES:
+1. Hriday - 66.7% overlap
+   Classes in common: 4
+   Classes Yaseen has that Hriday doesn't: CHEM 102, CHEM 101
+   Classes Hriday has that Yaseen doesn't: Math 285, PHYS 212, ECE 110
+
+2. Patrick - 66.7% overlap
+   Classes in common: 4
+   Classes Yaseen has that Patrick doesn't: CHEM 102, CHEM 101
+   Classes Patrick has that Yaseen doesn't: PHYS 100
+
+--------------------------------------------------------------------------------
+
+TUTOR: Yashwanth
+Total Subjects: 4
+All Subjects: CHEM 102, Math 231 (E), Math 241, PHYS 212
+Number of Matches: 4
+Total Available (before assignment): 1
+Assignments Used: 13
+
+TOP 3 MATCHES:
+1. Aaron - 75.0% overlap
+   Classes in common: 3
+   Classes Yashwanth has that Aaron doesn't: Math 231 (E)
+   Classes Aaron has that Yashwanth doesn't: PHYS 211
+
+2. Norita - 75.0% overlap
+   Classes in common: 3
+   Classes Yashwanth has that Norita doesn't: CHEM 102
+   Classes Norita has that Yashwanth doesn't: PHYS 211
+
+3. Arush - 50.0% overlap
+   Classes in common: 2
+   Classes Yashwanth has that Arush doesn't: Math 231 (E), PHYS 212
+   Classes Arush has that Yashwanth doesn't: Math 257, Math 285
+
+4. Nico - 50.0% overlap
+   Classes in common: 2
+   Classes Yashwanth has that Nico doesn't: Math 231 (E), Math 241
+   Classes Nico has that Yashwanth doesn't: PHYS 211
+
+--------------------------------------------------------------------------------
+

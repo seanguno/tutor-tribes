@@ -1,0 +1,35 @@
+TUTOR SUBJECT OVERLAP ANALYSIS SUMMARY
+=====================================
+
+This analysis shows the top 5 matches for each tutor based on subject overlap.
+The overlap score represents what percentage of a tutor's subjects are covered by another tutor.
+
+OVERLAP SCORING METHOD:
+- Overlap Score = (Number of subjects in common) / (Total subjects of the first tutor)
+- Example: If Tutor A has 10 subjects and Tutor B covers 7 of them, the overlap is 70%
+
+KEY FINDINGS:
+- Total tutors analyzed: 67
+- Subject overlap helps identify backup tutors and knowledge gaps
+- Higher overlap scores indicate better backup coverage
+- Lower overlap scores show complementary knowledge areas
+
+REPORT FORMAT:
+The full HTML report (tutor_overlap_report.html) includes:
+1. Table of contents for easy navigation
+2. Individual sections for each tutor
+3. Top 5 matches with overlap percentages
+4. Detailed breakdown of shared and unique subjects
+5. Professional formatting suitable for sharing
+
+USAGE:
+- Open tutor_overlap_report.html in any web browser
+- Use the table of contents to jump to specific tutors
+- Green badges show overlap percentages
+- Blue boxes show subject differences between tutors
+
+This analysis helps identify:
+- Which tutors can best cover for each other
+- Knowledge gaps in the tutoring team
+- Opportunities for cross-training
+- Optimal tutor assignments for different subjects

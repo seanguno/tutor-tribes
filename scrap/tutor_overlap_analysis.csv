@@ -1,0 +1,737 @@
+Tutor,Total_Subjects,All_Subjects,Number_of_Matches,Match_Type
+Aanvi,14,ECE 205; ME 170; ME 270; Math 112; Math 115; Math 220; Math 221; Math 231; Math 241; Math 257; PHYS 211; TAM 210; TAM 212; TAM 251,6,MAIN_TUTOR
+  1. Akshay,8,Overlap: 57.1%,,MATCH
+  2. Jiya,8,Overlap: 57.1%,,MATCH
+  3. Lucy P.,8,Overlap: 57.1%,,MATCH
+  4. Bella,7,Overlap: 50.0%,,MATCH
+  5. Diego,7,Overlap: 50.0%,,MATCH
+  6. Jacob,7,Overlap: 50.0%,,MATCH
+,,,,SEPARATOR
+Aarnav,9,CS 124; CS 128; Math 241; Math 285; PHYS 211; PHYS 212; PHYS 213; PHYS 214; PHYS 225,7,MAIN_TUTOR
+  1. Alex S.,7,Overlap: 77.8%,,MATCH
+  2. Ryan,7,Overlap: 77.8%,,MATCH
+  3. Aman,6,Overlap: 66.7%,,MATCH
+  4. Aparna,6,Overlap: 66.7%,,MATCH
+  5. David,6,Overlap: 66.7%,,MATCH
+  6. Luke,6,Overlap: 66.7%,,MATCH
+  7. Zaahi,6,Overlap: 66.7%,,MATCH
+,,,,SEPARATOR
+Aaron,6,CHEM 102; CS 124; CS 173; Math 241; PHYS 211; PHYS 212,7,MAIN_TUTOR
+  1. Aarnav,4,Overlap: 66.7%,,MATCH
+  2. Aman,4,Overlap: 66.7%,,MATCH
+  3. Logan,4,Overlap: 66.7%,,MATCH
+  4. Nico,4,Overlap: 66.7%,,MATCH
+  5. Noah,4,Overlap: 66.7%,,MATCH
+  6. Sean,4,Overlap: 66.7%,,MATCH
+  7. Teddy,4,Overlap: 66.7%,,MATCH
+,,,,SEPARATOR
+Adelaide,8,CHEM 101; CHEM 102; CHEM 104; Math 112; Math 115; Math 220; Math 221; Math 231,8,MAIN_TUTOR
+  1. Sophia,8,Overlap: 100.0%,,MATCH
+  2. Akshay,6,Overlap: 75.0%,,MATCH
+  3. Emma,6,Overlap: 75.0%,,MATCH
+  4. Aanvi,5,Overlap: 62.5%,,MATCH
+  5. Jiya,5,Overlap: 62.5%,,MATCH
+  6. Lucy P.,5,Overlap: 62.5%,,MATCH
+  7. Lydia,5,Overlap: 62.5%,,MATCH
+  8. Yaseen,5,Overlap: 62.5%,,MATCH
+,,,,SEPARATOR
+Aidan,11,AE 202; CS 101; ME 200; MSE 280; Math 241; Math 257; Math 285; PHYS 100; PHYS 211; PHYS 212; TAM 210,11,MAIN_TUTOR
+  1. Logan,7,Overlap: 63.6%,,MATCH
+  2. Zaahi,7,Overlap: 63.6%,,MATCH
+  3. Camila,6,Overlap: 54.5%,,MATCH
+  4. Aman,5,Overlap: 45.5%,,MATCH
+  5. Bella,5,Overlap: 45.5%,,MATCH
+  6. Clive,5,Overlap: 45.5%,,MATCH
+  7. Diego,5,Overlap: 45.5%,,MATCH
+  8. Lucas,5,Overlap: 45.5%,,MATCH
+  9. Luke,5,Overlap: 45.5%,,MATCH
+  10. Regina,5,Overlap: 45.5%,,MATCH
+  11. Rohan,5,Overlap: 45.5%,,MATCH
+,,,,SEPARATOR
+Akshay,11,CHEM 104; Math 112; Math 115; Math 220; Math 221; Math 231; Math 285; PHYS 211; PHYS 212; TAM 210; TAM 212,9,MAIN_TUTOR
+  1. Aanvi,8,Overlap: 72.7%,,MATCH
+  2. Sophia,8,Overlap: 72.7%,,MATCH
+  3. Jiya,7,Overlap: 63.6%,,MATCH
+  4. Lucy P.,7,Overlap: 63.6%,,MATCH
+  5. Adelaide,6,Overlap: 54.5%,,MATCH
+  6. Bella,6,Overlap: 54.5%,,MATCH
+  7. Hriday,6,Overlap: 54.5%,,MATCH
+  8. Lucy,6,Overlap: 54.5%,,MATCH
+  9. Lydia,6,Overlap: 54.5%,,MATCH
+,,,,SEPARATOR
+Alejandro,8,IE 300; IE 310; ME 330; Math 285; SE 101 (Fusion); TAM 210; TAM 211; TAM 251,11,MAIN_TUTOR
+  1. Bella,4,Overlap: 50.0%,,MATCH
+  2. Lucas,4,Overlap: 50.0%,,MATCH
+  3. Camila,3,Overlap: 37.5%,,MATCH
+  4. Charlie,3,Overlap: 37.5%,,MATCH
+  5. Diego,3,Overlap: 37.5%,,MATCH
+  6. Eric J. ,3,Overlap: 37.5%,,MATCH
+  7. Gabe,3,Overlap: 37.5%,,MATCH
+  8. Lucy P.,3,Overlap: 37.5%,,MATCH
+  9. Pallab,3,Overlap: 37.5%,,MATCH
+  10. Teddy,3,Overlap: 37.5%,,MATCH
+  11. Zaahi,3,Overlap: 37.5%,,MATCH
+,,,,SEPARATOR
+Alex G.,9,Math 241; PHYS 211; PHYS 212; PHYS 213; SE 101 (Revit); TAM 210; TAM 211; TAM 212; TAM 335,18,MAIN_TUTOR
+  1. Aman,5,Overlap: 55.6%,,MATCH
+  2. Camila,5,Overlap: 55.6%,,MATCH
+  3. Teddy,5,Overlap: 55.6%,,MATCH
+  4. Zaahi,5,Overlap: 55.6%,,MATCH
+  5. Aanvi,4,Overlap: 44.4%,,MATCH
+  6. Aarnav,4,Overlap: 44.4%,,MATCH
+  7. Aidan,4,Overlap: 44.4%,,MATCH
+  8. Akshay,4,Overlap: 44.4%,,MATCH
+  9. Alex S.,4,Overlap: 44.4%,,MATCH
+  10. Bella,4,Overlap: 44.4%,,MATCH
+  11. Diego,4,Overlap: 44.4%,,MATCH
+  12. Gabe,4,Overlap: 44.4%,,MATCH
+  13. Jacob,4,Overlap: 44.4%,,MATCH
+  14. Lucas,4,Overlap: 44.4%,,MATCH
+  15. Lucy P.,4,Overlap: 44.4%,,MATCH
+  16. Luke,4,Overlap: 44.4%,,MATCH
+  17. Lydia,4,Overlap: 44.4%,,MATCH
+  18. Meredith,4,Overlap: 44.4%,,MATCH
+,,,,SEPARATOR
+Alex S.,9,Math 241; Math 285; PHYS 211; PHYS 212; PHYS 213; PHYS 214; PHYS 225; PHYS 325; STAT 400,5,MAIN_TUTOR
+  1. Aarnav,7,Overlap: 77.8%,,MATCH
+  2. David,6,Overlap: 66.7%,,MATCH
+  3. Johan,6,Overlap: 66.7%,,MATCH
+  4. Luke,6,Overlap: 66.7%,,MATCH
+  5. Ryan,6,Overlap: 66.7%,,MATCH
+,,,,SEPARATOR
+Aman,11,CS 124; ME 170; ME 200; Math 241; Math 257; PHYS 211; PHYS 212; PHYS 213; PHYS 214; TAM 212; TAM 251,8,MAIN_TUTOR
+  1. Zaahi,9,Overlap: 81.8%,,MATCH
+  2. Aanvi,6,Overlap: 54.5%,,MATCH
+  3. Aarnav,6,Overlap: 54.5%,,MATCH
+  4. Bella,6,Overlap: 54.5%,,MATCH
+  5. Diego,6,Overlap: 54.5%,,MATCH
+  6. Jacob,6,Overlap: 54.5%,,MATCH
+  7. Logan,6,Overlap: 54.5%,,MATCH
+  8. Luke,6,Overlap: 54.5%,,MATCH
+,,,,SEPARATOR
+Andy,6,BIOE 210; CS 124; MCB 150; Math 241; Math 285; PHYS 211,5,MAIN_TUTOR
+  1. Sean,5,Overlap: 83.3%,,MATCH
+  2. Aarnav,4,Overlap: 66.7%,,MATCH
+  3. Logan,4,Overlap: 66.7%,,MATCH
+  4. Sophia,4,Overlap: 66.7%,,MATCH
+  5. Teddy,4,Overlap: 66.7%,,MATCH
+,,,,SEPARATOR
+Anthony,6,CS 101; Math 115; Math 220; Math 221; Math 241; PHYS 100,6,MAIN_TUTOR
+  1. Aanvi,4,Overlap: 66.7%,,MATCH
+  2. Clive,4,Overlap: 66.7%,,MATCH
+  3. Jiya,4,Overlap: 66.7%,,MATCH
+  4. Lucy P.,4,Overlap: 66.7%,,MATCH
+  5. Meredith,4,Overlap: 66.7%,,MATCH
+  6. Sophia,4,Overlap: 66.7%,,MATCH
+,,,,SEPARATOR
+Aparna,13,CHEM 102; CHEM 104; CHEM 232; CS 124; CS 128; Math 257; Math 285; PHYS 212; PHYS 213; PHYS 214; PHYS 325; PHYS 326; PHYS 370,7,MAIN_TUTOR
+  1. Ryan,8,Overlap: 61.5%,,MATCH
+  2. David,7,Overlap: 53.8%,,MATCH
+  3. Aarnav,6,Overlap: 46.2%,,MATCH
+  4. Johan,6,Overlap: 46.2%,,MATCH
+  5. Sean,6,Overlap: 46.2%,,MATCH
+  6. Sophia,6,Overlap: 46.2%,,MATCH
+  7. Zaahi,6,Overlap: 46.2%,,MATCH
+,,,,SEPARATOR
+Arush,5,CHEM 102; ME 200; Math 241; Math 257; Math 285,17,MAIN_TUTOR
+  1. Aidan,4,Overlap: 80.0%,,MATCH
+  2. David,4,Overlap: 80.0%,,MATCH
+  3. Logan,4,Overlap: 80.0%,,MATCH
+  4. Rohan,4,Overlap: 80.0%,,MATCH
+  5. Aman,3,Overlap: 60.0%,,MATCH
+  6. Aparna,3,Overlap: 60.0%,,MATCH
+  7. Camila,3,Overlap: 60.0%,,MATCH
+  8. Clive,3,Overlap: 60.0%,,MATCH
+  9. Diego,3,Overlap: 60.0%,,MATCH
+  10. Gabe,3,Overlap: 60.0%,,MATCH
+  11. Johan,3,Overlap: 60.0%,,MATCH
+  12. Luke,3,Overlap: 60.0%,,MATCH
+  13. Pallab,3,Overlap: 60.0%,,MATCH
+  14. Regina,3,Overlap: 60.0%,,MATCH
+  15. Rick,3,Overlap: 60.0%,,MATCH
+  16. Teddy,3,Overlap: 60.0%,,MATCH
+  17. Zaahi,3,Overlap: 60.0%,,MATCH
+,,,,SEPARATOR
+Avni,9,BIOE 201; BIOE 205; BIOE 206; BIOE 210; CHEM 232; CS 173; Math 285; PHYS 211; PHYS 212,18,MAIN_TUTOR
+  1. Sophia,7,Overlap: 77.8%,,MATCH
+  2. Sean,6,Overlap: 66.7%,,MATCH
+  3. Aarnav,3,Overlap: 33.3%,,MATCH
+  4. Aaron,3,Overlap: 33.3%,,MATCH
+  5. Aidan,3,Overlap: 33.3%,,MATCH
+  6. Akshay,3,Overlap: 33.3%,,MATCH
+  7. Alex S.,3,Overlap: 33.3%,,MATCH
+  8. Andy,3,Overlap: 33.3%,,MATCH
+  9. Aparna,3,Overlap: 33.3%,,MATCH
+  10. Bella,3,Overlap: 33.3%,,MATCH
+  11. Hriday,3,Overlap: 33.3%,,MATCH
+  12. Kewal,3,Overlap: 33.3%,,MATCH
+  13. Logan,3,Overlap: 33.3%,,MATCH
+  14. Lucy,3,Overlap: 33.3%,,MATCH
+  15. Lucy P.,3,Overlap: 33.3%,,MATCH
+  16. Luke,3,Overlap: 33.3%,,MATCH
+  17. Teddy,3,Overlap: 33.3%,,MATCH
+  18. Zaahi,3,Overlap: 33.3%,,MATCH
+,,,,SEPARATOR
+Bella,14,ME 170; ME 200; ME 270; ME 330; ME 340; Math 231; Math 231 (E); Math 285; PHYS 211; PHYS 212; STAT 400; TAM 210; TAM 212; TAM 251,6,MAIN_TUTOR
+  1. Aanvi,7,Overlap: 50.0%,,MATCH
+  2. Zaahi,7,Overlap: 50.0%,,MATCH
+  3. Akshay,6,Overlap: 42.9%,,MATCH
+  4. Aman,6,Overlap: 42.9%,,MATCH
+  5. Diego,6,Overlap: 42.9%,,MATCH
+  6. Lucas,6,Overlap: 42.9%,,MATCH
+,,,,SEPARATOR
+Ben,6,AE 140; ECE 205; Math 257; Math 285; TAM 210; TAM 212,8,MAIN_TUTOR
+  1. Charlie,6,Overlap: 100.0%,,MATCH
+  2. Maheen,5,Overlap: 83.3%,,MATCH
+  3. Pallab,5,Overlap: 83.3%,,MATCH
+  4. Rohan,5,Overlap: 83.3%,,MATCH
+  5. Aanvi,4,Overlap: 66.7%,,MATCH
+  6. Diego,4,Overlap: 66.7%,,MATCH
+  7. Lucas,4,Overlap: 66.7%,,MATCH
+  8. Zaahi,4,Overlap: 66.7%,,MATCH
+,,,,SEPARATOR
+Camila,8,Math 241; Math 257; Math 285; PHYS 100; PHYS 211; SE 101 (Revit); TAM 210; TAM 211,10,MAIN_TUTOR
+  1. Aidan,6,Overlap: 75.0%,,MATCH
+  2. Lucas,6,Overlap: 75.0%,,MATCH
+  3. Alex G.,5,Overlap: 62.5%,,MATCH
+  4. Clive,5,Overlap: 62.5%,,MATCH
+  5. Diego,5,Overlap: 62.5%,,MATCH
+  6. Eric J. ,5,Overlap: 62.5%,,MATCH
+  7. Gabe,5,Overlap: 62.5%,,MATCH
+  8. Meredith,5,Overlap: 62.5%,,MATCH
+  9. Teddy,5,Overlap: 62.5%,,MATCH
+  10. Zaahi,5,Overlap: 62.5%,,MATCH
+,,,,SEPARATOR
+Camille W.,6,ECE 110; ECE 120; ECE 220; Math 241; PHYS 213; PHYS 214,12,MAIN_TUTOR
+  1. Johan,6,Overlap: 100.0%,,MATCH
+  2. Rick,5,Overlap: 83.3%,,MATCH
+  3. Kewal,4,Overlap: 66.7%,,MATCH
+"  4. Weiqiong ""Liz""",4,Overlap: 66.7%,,MATCH
+  5. Aarnav,3,Overlap: 50.0%,,MATCH
+  6. Alex S.,3,Overlap: 50.0%,,MATCH
+  7. Aman,3,Overlap: 50.0%,,MATCH
+  8. David,3,Overlap: 50.0%,,MATCH
+  9. Jacob,3,Overlap: 50.0%,,MATCH
+  10. Luke,3,Overlap: 50.0%,,MATCH
+  11. Sarah,3,Overlap: 50.0%,,MATCH
+  12. Sushrut,3,Overlap: 50.0%,,MATCH
+,,,,SEPARATOR
+Charlie,14,AE 140; AE 311; AE 321; AE 323; AE 352; CS 124; CS 173; ECE 205; MSE 280; Math 257; Math 285; TAM 210; TAM 211; TAM 212,8,MAIN_TUTOR
+  1. Maheen,8,Overlap: 57.1%,,MATCH
+  2. Ben,6,Overlap: 42.9%,,MATCH
+  3. Eric J. ,5,Overlap: 35.7%,,MATCH
+  4. Lucas,5,Overlap: 35.7%,,MATCH
+  5. Pallab,5,Overlap: 35.7%,,MATCH
+  6. Rohan,5,Overlap: 35.7%,,MATCH
+  7. Teddy,5,Overlap: 35.7%,,MATCH
+  8. Zaahi,5,Overlap: 35.7%,,MATCH
+,,,,SEPARATOR
+Clive,10,CHEM 102; CS 101; Math 220; Math 221; Math 231; Math 257; Math 285; PHYS 100; PHYS 211; SE 101 (Revit),14,MAIN_TUTOR
+  1. Jiya,7,Overlap: 70.0%,,MATCH
+  2. Sophia,7,Overlap: 70.0%,,MATCH
+  3. Lucy,6,Overlap: 60.0%,,MATCH
+  4. Aanvi,5,Overlap: 50.0%,,MATCH
+  5. Aidan,5,Overlap: 50.0%,,MATCH
+  6. Akshay,5,Overlap: 50.0%,,MATCH
+  7. Camila,5,Overlap: 50.0%,,MATCH
+  8. Hriday,5,Overlap: 50.0%,,MATCH
+  9. Jacob,5,Overlap: 50.0%,,MATCH
+  10. Lucy P.,5,Overlap: 50.0%,,MATCH
+  11. Lydia,5,Overlap: 50.0%,,MATCH
+  12. Meredith,5,Overlap: 50.0%,,MATCH
+  13. Patrick,5,Overlap: 50.0%,,MATCH
+  14. Yaseen,5,Overlap: 50.0%,,MATCH
+,,,,SEPARATOR
+David,9,CHEM 102; CS 124; Math 241; Math 257; Math 285; PHYS 213; PHYS 214; PHYS 225; PHYS 325,5,MAIN_TUTOR
+  1. Aparna,7,Overlap: 77.8%,,MATCH
+  2. Aarnav,6,Overlap: 66.7%,,MATCH
+  3. Alex S.,6,Overlap: 66.7%,,MATCH
+  4. Johan,6,Overlap: 66.7%,,MATCH
+  5. Ryan,6,Overlap: 66.7%,,MATCH
+,,,,SEPARATOR
+Diego,8,ME 170; Math 241; Math 257; Math 285; PHYS 211; TAM 210; TAM 212; TAM 251,7,MAIN_TUTOR
+  1. Aanvi,7,Overlap: 87.5%,,MATCH
+  2. Lucas,7,Overlap: 87.5%,,MATCH
+  3. Aman,6,Overlap: 75.0%,,MATCH
+  4. Bella,6,Overlap: 75.0%,,MATCH
+  5. Pallab,6,Overlap: 75.0%,,MATCH
+  6. Rohan,6,Overlap: 75.0%,,MATCH
+  7. Zaahi,6,Overlap: 75.0%,,MATCH
+,,,,SEPARATOR
+Emma,7,CHEM 101; CHEM 102; CHEM 104; Math 220; Math 221; Math 231; Math 241,5,MAIN_TUTOR
+  1. Adelaide,6,Overlap: 85.7%,,MATCH
+  2. Lydia,6,Overlap: 85.7%,,MATCH
+  3. Sophia,6,Overlap: 85.7%,,MATCH
+  4. Meredith,5,Overlap: 71.4%,,MATCH
+  5. Yaseen,5,Overlap: 71.4%,,MATCH
+,,,,SEPARATOR
+Eric J. ,8,CS 128; CS 173; CS 225; Math 257; Math 285; PHYS 100; TAM 210; TAM 211,10,MAIN_TUTOR
+  1. Camila,5,Overlap: 62.5%,,MATCH
+  2. Charlie,5,Overlap: 62.5%,,MATCH
+  3. Lucas,5,Overlap: 62.5%,,MATCH
+  4. Aidan,4,Overlap: 50.0%,,MATCH
+  5. Maanvi,4,Overlap: 50.0%,,MATCH
+  6. Maheen,4,Overlap: 50.0%,,MATCH
+  7. Nehan,4,Overlap: 50.0%,,MATCH
+  8. Ryan,4,Overlap: 50.0%,,MATCH
+  9. Sean,4,Overlap: 50.0%,,MATCH
+  10. Zaahi,4,Overlap: 50.0%,,MATCH
+,,,,SEPARATOR
+Gabe,9,CHEM 102; CHEM 104; CS 101; Math 241; Math 257; SE 101 (Revit); TAM 210; TAM 211; TAM 251,12,MAIN_TUTOR
+  1. Camila,5,Overlap: 55.6%,,MATCH
+  2. Lydia,5,Overlap: 55.6%,,MATCH
+  3. Teddy,5,Overlap: 55.6%,,MATCH
+  4. Aanvi,4,Overlap: 44.4%,,MATCH
+  5. Aidan,4,Overlap: 44.4%,,MATCH
+  6. Alex G.,4,Overlap: 44.4%,,MATCH
+  7. Clive,4,Overlap: 44.4%,,MATCH
+  8. Diego,4,Overlap: 44.4%,,MATCH
+  9. Lucas,4,Overlap: 44.4%,,MATCH
+  10. Lucy P.,4,Overlap: 44.4%,,MATCH
+  11. Pallab,4,Overlap: 44.4%,,MATCH
+  12. Regina,4,Overlap: 44.4%,,MATCH
+,,,,SEPARATOR
+Geo,2,Math 220; Math 221,17,MAIN_TUTOR
+  1. Aanvi,2,Overlap: 100.0%,,MATCH
+  2. Adelaide,2,Overlap: 100.0%,,MATCH
+  3. Akshay,2,Overlap: 100.0%,,MATCH
+  4. Anthony,2,Overlap: 100.0%,,MATCH
+  5. Clive,2,Overlap: 100.0%,,MATCH
+  6. Emma,2,Overlap: 100.0%,,MATCH
+  7. Hriday,2,Overlap: 100.0%,,MATCH
+  8. Jacob,2,Overlap: 100.0%,,MATCH
+  9. Jiya,2,Overlap: 100.0%,,MATCH
+  10. Lucy,2,Overlap: 100.0%,,MATCH
+  11. Lucy P.,2,Overlap: 100.0%,,MATCH
+  12. Lydia,2,Overlap: 100.0%,,MATCH
+  13. Meredith,2,Overlap: 100.0%,,MATCH
+  14. Noah,2,Overlap: 100.0%,,MATCH
+  15. Patrick,2,Overlap: 100.0%,,MATCH
+  16. Sophia,2,Overlap: 100.0%,,MATCH
+  17. Yaseen,2,Overlap: 100.0%,,MATCH
+,,,,SEPARATOR
+Grace,6,CHEM 102; ME 170; Math 231 (E); Math 241; PHYS 100; PHYS 211,20,MAIN_TUTOR
+  1. Yashwanth,4,Overlap: 66.7%,,MATCH
+  2. Aanvi,3,Overlap: 50.0%,,MATCH
+  3. Aaron,3,Overlap: 50.0%,,MATCH
+  4. Aidan,3,Overlap: 50.0%,,MATCH
+  5. Aman,3,Overlap: 50.0%,,MATCH
+  6. Bella,3,Overlap: 50.0%,,MATCH
+  7. Camila,3,Overlap: 50.0%,,MATCH
+  8. Clive,3,Overlap: 50.0%,,MATCH
+  9. Diego,3,Overlap: 50.0%,,MATCH
+  10. Kewal,3,Overlap: 50.0%,,MATCH
+  11. Lucas,3,Overlap: 50.0%,,MATCH
+  12. Lucy P.,3,Overlap: 50.0%,,MATCH
+  13. Luke,3,Overlap: 50.0%,,MATCH
+  14. Lydia,3,Overlap: 50.0%,,MATCH
+  15. Meredith,3,Overlap: 50.0%,,MATCH
+  16. Nico,3,Overlap: 50.0%,,MATCH
+  17. Norita,3,Overlap: 50.0%,,MATCH
+  18. Regina,3,Overlap: 50.0%,,MATCH
+  19. Sophia,3,Overlap: 50.0%,,MATCH
+  20. Teddy,3,Overlap: 50.0%,,MATCH
+,,,,SEPARATOR
+Hriday,7,ECE 110; Math 220; Math 221; Math 231; Math 285; PHYS 211; PHYS 212,7,MAIN_TUTOR
+  1. Akshay,6,Overlap: 85.7%,,MATCH
+  2. Clive,5,Overlap: 71.4%,,MATCH
+  3. Jacob,5,Overlap: 71.4%,,MATCH
+  4. Jiya,5,Overlap: 71.4%,,MATCH
+  5. Lucy,5,Overlap: 71.4%,,MATCH
+  6. Noah,5,Overlap: 71.4%,,MATCH
+  7. Sophia,5,Overlap: 71.4%,,MATCH
+,,,,SEPARATOR
+Jacob,10,ECE 205; Math 220; Math 221; Math 231; Math 241; Math 257; PHYS 211; PHYS 212; PHYS 213; PHYS 214,5,MAIN_TUTOR
+  1. Aanvi,7,Overlap: 70.0%,,MATCH
+  2. Jiya,7,Overlap: 70.0%,,MATCH
+  3. Aman,6,Overlap: 60.0%,,MATCH
+  4. Lucy,6,Overlap: 60.0%,,MATCH
+  5. Luke,6,Overlap: 60.0%,,MATCH
+,,,,SEPARATOR
+Jiya,14,CS 101; ECE 205; MSE 182; MSE 201; MSE 206; Math 112; Math 115; Math 220; Math 221; Math 231; Math 257; Math 285; PHYS 211; PHYS 214,7,MAIN_TUTOR
+  1. Aanvi,8,Overlap: 57.1%,,MATCH
+  2. Regina,8,Overlap: 57.1%,,MATCH
+  3. Akshay,7,Overlap: 50.0%,,MATCH
+  4. Clive,7,Overlap: 50.0%,,MATCH
+  5. Jacob,7,Overlap: 50.0%,,MATCH
+  6. Lucy,7,Overlap: 50.0%,,MATCH
+  7. Sophia,7,Overlap: 50.0%,,MATCH
+,,,,SEPARATOR
+Johail,8,CS 225; ECE 110; ECE 210; ECE 310; ECE 374; Math 241; Math 347; PHYS 211,6,MAIN_TUTOR
+  1. Johan,4,Overlap: 50.0%,,MATCH
+  2. Kewal,4,Overlap: 50.0%,,MATCH
+  3. Rick,4,Overlap: 50.0%,,MATCH
+  4. Nehan,3,Overlap: 37.5%,,MATCH
+  5. Noah,3,Overlap: 37.5%,,MATCH
+  6. Sarah,3,Overlap: 37.5%,,MATCH
+,,,,SEPARATOR
+Johan,15,ECE 110; ECE 120; ECE 210; ECE 220; ECE 310; ECE 313; ECE 329; ECE 342; Math 241; Math 257; Math 285; PHYS 212; PHYS 213; PHYS 214; PHYS 325,9,MAIN_TUTOR
+  1. Rick,8,Overlap: 53.3%,,MATCH
+  2. Kewal,7,Overlap: 46.7%,,MATCH
+  3. Sushrut,7,Overlap: 46.7%,,MATCH
+  4. Alex S.,6,Overlap: 40.0%,,MATCH
+  5. Aparna,6,Overlap: 40.0%,,MATCH
+  6. Camille W.,6,Overlap: 40.0%,,MATCH
+  7. David,6,Overlap: 40.0%,,MATCH
+  8. Luke,6,Overlap: 40.0%,,MATCH
+  9. Sarah,6,Overlap: 40.0%,,MATCH
+,,,,SEPARATOR
+Kewal,9,ECE 110; ECE 120; ECE 210; Math 231 (E); Math 241; Math 285; PHYS 211; PHYS 212; PHYS 214,8,MAIN_TUTOR
+  1. Johan,7,Overlap: 77.8%,,MATCH
+  2. Luke,6,Overlap: 66.7%,,MATCH
+  3. Aarnav,5,Overlap: 55.6%,,MATCH
+  4. Alex S.,5,Overlap: 55.6%,,MATCH
+  5. Regina,5,Overlap: 55.6%,,MATCH
+  6. Rick,5,Overlap: 55.6%,,MATCH
+  7. Sarah,5,Overlap: 55.6%,,MATCH
+  8. Sushrut,5,Overlap: 55.6%,,MATCH
+,,,,SEPARATOR
+Kristie,5,ECE 110; ECE 120; Math 285; PHYS 100; PHYS 212,8,MAIN_TUTOR
+  1. Johan,4,Overlap: 80.0%,,MATCH
+  2. Kewal,4,Overlap: 80.0%,,MATCH
+  3. Aidan,3,Overlap: 60.0%,,MATCH
+  4. Hriday,3,Overlap: 60.0%,,MATCH
+  5. Lucas,3,Overlap: 60.0%,,MATCH
+  6. Rick,3,Overlap: 60.0%,,MATCH
+  7. Sushrut,3,Overlap: 60.0%,,MATCH
+  8. Zaahi,3,Overlap: 60.0%,,MATCH
+,,,,SEPARATOR
+Logan,13,CS 101; CS 124; ECE 205; ME 200; Math 241; Math 257; Math 285; NPRE 200; NPRE 247; NPRE 321; NPRE 330; PHYS 211; PHYS 212,10,MAIN_TUTOR
+  1. Aidan,7,Overlap: 53.8%,,MATCH
+  2. Aman,6,Overlap: 46.2%,,MATCH
+  3. Zaahi,6,Overlap: 46.2%,,MATCH
+  4. Aarnav,5,Overlap: 38.5%,,MATCH
+  5. Jacob,5,Overlap: 38.5%,,MATCH
+  6. Jiya,5,Overlap: 38.5%,,MATCH
+  7. Luke,5,Overlap: 38.5%,,MATCH
+  8. Regina,5,Overlap: 38.5%,,MATCH
+  9. Rohan,5,Overlap: 38.5%,,MATCH
+  10. Ryan,5,Overlap: 38.5%,,MATCH
+,,,,SEPARATOR
+Lucas,10,ECE 120; ME 170; Math 257; Math 285; PHYS 100; PHYS 211; TAM 210; TAM 211; TAM 212; TAM 251,7,MAIN_TUTOR
+  1. Diego,7,Overlap: 70.0%,,MATCH
+  2. Zaahi,7,Overlap: 70.0%,,MATCH
+  3. Aanvi,6,Overlap: 60.0%,,MATCH
+  4. Bella,6,Overlap: 60.0%,,MATCH
+  5. Camila,6,Overlap: 60.0%,,MATCH
+  6. Lucy P.,6,Overlap: 60.0%,,MATCH
+  7. Rohan,6,Overlap: 60.0%,,MATCH
+,,,,SEPARATOR
+Lucy,11,CHEM 104; CHEM 232; MSE 182; MSE 201; Math 220; Math 221; Math 231; Math 257; PHYS 100; PHYS 211; PHYS 212,5,MAIN_TUTOR
+  1. Jiya,7,Overlap: 63.6%,,MATCH
+  2. Sophia,7,Overlap: 63.6%,,MATCH
+  3. Akshay,6,Overlap: 54.5%,,MATCH
+  4. Clive,6,Overlap: 54.5%,,MATCH
+  5. Jacob,6,Overlap: 54.5%,,MATCH
+,,,,SEPARATOR
+Lucy P.,14,BIOE 201; BIOE 206; CHEM 102; CS 124; Math 112; Math 115; Math 220; Math 221; PHYS 100; PHYS 211; TAM 210; TAM 211; TAM 212; TAM 251,8,MAIN_TUTOR
+  1. Sophia,10,Overlap: 71.4%,,MATCH
+  2. Aanvi,8,Overlap: 57.1%,,MATCH
+  3. Akshay,7,Overlap: 50.0%,,MATCH
+  4. Lucas,6,Overlap: 42.9%,,MATCH
+  5. Lydia,6,Overlap: 42.9%,,MATCH
+  6. Meredith,6,Overlap: 42.9%,,MATCH
+  7. Teddy,6,Overlap: 42.9%,,MATCH
+  8. Zaahi,6,Overlap: 42.9%,,MATCH
+,,,,SEPARATOR
+Luke,8,Math 231 (E); Math 241; Math 257; Math 285; PHYS 211; PHYS 212; PHYS 213; PHYS 214,8,MAIN_TUTOR
+  1. Aarnav,6,Overlap: 75.0%,,MATCH
+  2. Alex S.,6,Overlap: 75.0%,,MATCH
+  3. Aman,6,Overlap: 75.0%,,MATCH
+  4. Jacob,6,Overlap: 75.0%,,MATCH
+  5. Johan,6,Overlap: 75.0%,,MATCH
+  6. Kewal,6,Overlap: 75.0%,,MATCH
+  7. Regina,6,Overlap: 75.0%,,MATCH
+  8. Zaahi,6,Overlap: 75.0%,,MATCH
+,,,,SEPARATOR
+Lydia,9,CHEM 102; CHEM 104; Math 220; Math 221; Math 231; Math 241; PHYS 211; TAM 210; TAM 211,7,MAIN_TUTOR
+  1. Meredith,7,Overlap: 77.8%,,MATCH
+  2. Aanvi,6,Overlap: 66.7%,,MATCH
+  3. Akshay,6,Overlap: 66.7%,,MATCH
+  4. Emma,6,Overlap: 66.7%,,MATCH
+  5. Lucy P.,6,Overlap: 66.7%,,MATCH
+  6. Sophia,6,Overlap: 66.7%,,MATCH
+  7. Teddy,6,Overlap: 66.7%,,MATCH
+,,,,SEPARATOR
+Maanvi,9,CS 124; CS 128; CS 173; CS 225; CS 233; CS 361; Math 241; Math 257; STAT 400,6,MAIN_TUTOR
+  1. Nehan,6,Overlap: 66.7%,,MATCH
+  2. Ryan,5,Overlap: 55.6%,,MATCH
+  3. Sean,5,Overlap: 55.6%,,MATCH
+  4. Eric J. ,4,Overlap: 44.4%,,MATCH
+  5. Maheen,4,Overlap: 44.4%,,MATCH
+  6. Noah,4,Overlap: 44.4%,,MATCH
+,,,,SEPARATOR
+Maheen,9,AE 140; CS 124; CS 128; CS 173; ECE 205; MSE 280; Math 257; TAM 210; TAM 212,8,MAIN_TUTOR
+  1. Charlie,8,Overlap: 88.9%,,MATCH
+  2. Ben,5,Overlap: 55.6%,,MATCH
+  3. Aanvi,4,Overlap: 44.4%,,MATCH
+  4. Eric J. ,4,Overlap: 44.4%,,MATCH
+  5. Maanvi,4,Overlap: 44.4%,,MATCH
+  6. Pallab,4,Overlap: 44.4%,,MATCH
+  7. Rohan,4,Overlap: 44.4%,,MATCH
+  8. Zaahi,4,Overlap: 44.4%,,MATCH
+,,,,SEPARATOR
+Maria,4,CHEM 102; CS 101; PHYS 211; SE 101 (Fusion),15,MAIN_TUTOR
+  1. Clive,3,Overlap: 75.0%,,MATCH
+  2. Aaron,2,Overlap: 50.0%,,MATCH
+  3. Aidan,2,Overlap: 50.0%,,MATCH
+  4. Gabe,2,Overlap: 50.0%,,MATCH
+  5. Grace,2,Overlap: 50.0%,,MATCH
+  6. Jiya,2,Overlap: 50.0%,,MATCH
+  7. Logan,2,Overlap: 50.0%,,MATCH
+  8. Lucy P.,2,Overlap: 50.0%,,MATCH
+  9. Lydia,2,Overlap: 50.0%,,MATCH
+  10. Nico,2,Overlap: 50.0%,,MATCH
+  11. Regina,2,Overlap: 50.0%,,MATCH
+  12. Sean,2,Overlap: 50.0%,,MATCH
+  13. Sophia,2,Overlap: 50.0%,,MATCH
+  14. Teddy,2,Overlap: 50.0%,,MATCH
+  15. Yaseen,2,Overlap: 50.0%,,MATCH
+,,,,SEPARATOR
+Maya,2,Math 231; PHYS 211,14,MAIN_TUTOR
+  1. Aanvi,2,Overlap: 100.0%,,MATCH
+  2. Akshay,2,Overlap: 100.0%,,MATCH
+  3. Bella,2,Overlap: 100.0%,,MATCH
+  4. Clive,2,Overlap: 100.0%,,MATCH
+  5. Hriday,2,Overlap: 100.0%,,MATCH
+  6. Jacob,2,Overlap: 100.0%,,MATCH
+  7. Jiya,2,Overlap: 100.0%,,MATCH
+  8. Lucy,2,Overlap: 100.0%,,MATCH
+  9. Lydia,2,Overlap: 100.0%,,MATCH
+  10. Meredith,2,Overlap: 100.0%,,MATCH
+  11. Noah,2,Overlap: 100.0%,,MATCH
+  12. Patrick,2,Overlap: 100.0%,,MATCH
+  13. Sophia,2,Overlap: 100.0%,,MATCH
+  14. Yaseen,2,Overlap: 100.0%,,MATCH
+,,,,SEPARATOR
+Meredith,9,CHEM 101; Math 220; Math 221; Math 231; Math 241; PHYS 100; PHYS 211; TAM 210; TAM 211,13,MAIN_TUTOR
+  1. Lydia,7,Overlap: 77.8%,,MATCH
+  2. Aanvi,6,Overlap: 66.7%,,MATCH
+  3. Lucy P.,6,Overlap: 66.7%,,MATCH
+  4. Sophia,6,Overlap: 66.7%,,MATCH
+  5. Akshay,5,Overlap: 55.6%,,MATCH
+  6. Camila,5,Overlap: 55.6%,,MATCH
+  7. Clive,5,Overlap: 55.6%,,MATCH
+  8. Emma,5,Overlap: 55.6%,,MATCH
+  9. Jacob,5,Overlap: 55.6%,,MATCH
+  10. Lucy,5,Overlap: 55.6%,,MATCH
+  11. Noah,5,Overlap: 55.6%,,MATCH
+  12. Patrick,5,Overlap: 55.6%,,MATCH
+  13. Yaseen,5,Overlap: 55.6%,,MATCH
+,,,,SEPARATOR
+Nehan,7,CS 128; CS 173; CS 225; CS 233; Math 241; Math 257; PHYS 211,19,MAIN_TUTOR
+  1. Maanvi,6,Overlap: 85.7%,,MATCH
+  2. Eric J. ,4,Overlap: 57.1%,,MATCH
+  3. Noah,4,Overlap: 57.1%,,MATCH
+  4. Sean,4,Overlap: 57.1%,,MATCH
+  5. Aanvi,3,Overlap: 42.9%,,MATCH
+  6. Aarnav,3,Overlap: 42.9%,,MATCH
+  7. Aaron,3,Overlap: 42.9%,,MATCH
+  8. Aidan,3,Overlap: 42.9%,,MATCH
+  9. Aman,3,Overlap: 42.9%,,MATCH
+  10. Camila,3,Overlap: 42.9%,,MATCH
+  11. Diego,3,Overlap: 42.9%,,MATCH
+  12. Jacob,3,Overlap: 42.9%,,MATCH
+  13. Johail,3,Overlap: 42.9%,,MATCH
+  14. Logan,3,Overlap: 42.9%,,MATCH
+  15. Luke,3,Overlap: 42.9%,,MATCH
+  16. Maheen,3,Overlap: 42.9%,,MATCH
+  17. Regina,3,Overlap: 42.9%,,MATCH
+  18. Rick,3,Overlap: 42.9%,,MATCH
+  19. Ryan,3,Overlap: 42.9%,,MATCH
+,,,,SEPARATOR
+Nico,5,CHEM 102; CS 124; ME 170; PHYS 211; PHYS 212,13,MAIN_TUTOR
+  1. Aaron,4,Overlap: 80.0%,,MATCH
+  2. Aman,4,Overlap: 80.0%,,MATCH
+  3. Aarnav,3,Overlap: 60.0%,,MATCH
+  4. Aparna,3,Overlap: 60.0%,,MATCH
+  5. Bella,3,Overlap: 60.0%,,MATCH
+  6. Grace,3,Overlap: 60.0%,,MATCH
+  7. Logan,3,Overlap: 60.0%,,MATCH
+  8. Lucy P.,3,Overlap: 60.0%,,MATCH
+  9. Sean,3,Overlap: 60.0%,,MATCH
+  10. Sophia,3,Overlap: 60.0%,,MATCH
+  11. Teddy,3,Overlap: 60.0%,,MATCH
+  12. Yashwanth,3,Overlap: 60.0%,,MATCH
+  13. Zaahi,3,Overlap: 60.0%,,MATCH
+,,,,SEPARATOR
+Noah,9,CS 124; CS 128; CS 173; ECE 110; Math 220; Math 221; Math 231; Math 241; PHYS 211,6,MAIN_TUTOR
+  1. Sophia,6,Overlap: 66.7%,,MATCH
+  2. Aanvi,5,Overlap: 55.6%,,MATCH
+  3. Hriday,5,Overlap: 55.6%,,MATCH
+  4. Jacob,5,Overlap: 55.6%,,MATCH
+  5. Lydia,5,Overlap: 55.6%,,MATCH
+  6. Meredith,5,Overlap: 55.6%,,MATCH
+,,,,SEPARATOR
+Norita,4,Math 231 (E); Math 241; PHYS 211; PHYS 212,14,MAIN_TUTOR
+  1. Kewal,4,Overlap: 100.0%,,MATCH
+  2. Luke,4,Overlap: 100.0%,,MATCH
+  3. Aarnav,3,Overlap: 75.0%,,MATCH
+  4. Aaron,3,Overlap: 75.0%,,MATCH
+  5. Aidan,3,Overlap: 75.0%,,MATCH
+  6. Alex G.,3,Overlap: 75.0%,,MATCH
+  7. Alex S.,3,Overlap: 75.0%,,MATCH
+  8. Aman,3,Overlap: 75.0%,,MATCH
+  9. Bella,3,Overlap: 75.0%,,MATCH
+  10. Grace,3,Overlap: 75.0%,,MATCH
+  11. Jacob,3,Overlap: 75.0%,,MATCH
+  12. Logan,3,Overlap: 75.0%,,MATCH
+  13. Regina,3,Overlap: 75.0%,,MATCH
+  14. Yashwanth,3,Overlap: 75.0%,,MATCH
+,,,,SEPARATOR
+Pallab,7,ECE 205; Math 241; Math 257; Math 285; TAM 210; TAM 212; TAM 251,7,MAIN_TUTOR
+  1. Aanvi,6,Overlap: 85.7%,,MATCH
+  2. Diego,6,Overlap: 85.7%,,MATCH
+  3. Rohan,6,Overlap: 85.7%,,MATCH
+  4. Ben,5,Overlap: 71.4%,,MATCH
+  5. Charlie,5,Overlap: 71.4%,,MATCH
+  6. Lucas,5,Overlap: 71.4%,,MATCH
+  7. Zaahi,5,Overlap: 71.4%,,MATCH
+,,,,SEPARATOR
+Patrick,5,Math 220; Math 221; Math 231; PHYS 100; PHYS 211,13,MAIN_TUTOR
+  1. Clive,5,Overlap: 100.0%,,MATCH
+  2. Lucy,5,Overlap: 100.0%,,MATCH
+  3. Meredith,5,Overlap: 100.0%,,MATCH
+  4. Sophia,5,Overlap: 100.0%,,MATCH
+  5. Aanvi,4,Overlap: 80.0%,,MATCH
+  6. Akshay,4,Overlap: 80.0%,,MATCH
+  7. Hriday,4,Overlap: 80.0%,,MATCH
+  8. Jacob,4,Overlap: 80.0%,,MATCH
+  9. Jiya,4,Overlap: 80.0%,,MATCH
+  10. Lucy P.,4,Overlap: 80.0%,,MATCH
+  11. Lydia,4,Overlap: 80.0%,,MATCH
+  12. Noah,4,Overlap: 80.0%,,MATCH
+  13. Yaseen,4,Overlap: 80.0%,,MATCH
+,,,,SEPARATOR
+Regina,11,CHEM 104; CS 101; MSE 182; MSE 201; MSE 206; Math 231 (E); Math 241; Math 257; Math 285; PHYS 211; PHYS 214,6,MAIN_TUTOR
+  1. Jiya,8,Overlap: 72.7%,,MATCH
+  2. Luke,6,Overlap: 54.5%,,MATCH
+  3. Aidan,5,Overlap: 45.5%,,MATCH
+  4. Kewal,5,Overlap: 45.5%,,MATCH
+  5. Logan,5,Overlap: 45.5%,,MATCH
+  6. Lucy,5,Overlap: 45.5%,,MATCH
+,,,,SEPARATOR
+Rick,11,CS 225; ECE 110; ECE 120; ECE 210; ECE 220; Math 213; Math 241; Math 257; Math 285; PHYS 213; PHYS 225,7,MAIN_TUTOR
+  1. Johan,8,Overlap: 72.7%,,MATCH
+  2. Sushrut,6,Overlap: 54.5%,,MATCH
+  3. Camille W.,5,Overlap: 45.5%,,MATCH
+  4. David,5,Overlap: 45.5%,,MATCH
+  5. Kewal,5,Overlap: 45.5%,,MATCH
+  6. Ryan,5,Overlap: 45.5%,,MATCH
+  7. Sarah,5,Overlap: 45.5%,,MATCH
+,,,,SEPARATOR
+Rohan,9,ECE 120; ECE 205; ME 170; ME 200; Math 241; Math 257; Math 285; TAM 210; TAM 212,11,MAIN_TUTOR
+  1. Aanvi,6,Overlap: 66.7%,,MATCH
+  2. Diego,6,Overlap: 66.7%,,MATCH
+  3. Lucas,6,Overlap: 66.7%,,MATCH
+  4. Pallab,6,Overlap: 66.7%,,MATCH
+  5. Aidan,5,Overlap: 55.6%,,MATCH
+  6. Aman,5,Overlap: 55.6%,,MATCH
+  7. Bella,5,Overlap: 55.6%,,MATCH
+  8. Ben,5,Overlap: 55.6%,,MATCH
+  9. Charlie,5,Overlap: 55.6%,,MATCH
+  10. Logan,5,Overlap: 55.6%,,MATCH
+  11. Zaahi,5,Overlap: 55.6%,,MATCH
+,,,,SEPARATOR
+Ryan,12,CS 101; CS 124; CS 128; CS 225; Math 257; Math 285; PHYS 212; PHYS 213; PHYS 214; PHYS 225; PHYS 370; STAT 400,5,MAIN_TUTOR
+  1. Aparna,8,Overlap: 66.7%,,MATCH
+  2. Aarnav,7,Overlap: 58.3%,,MATCH
+  3. Alex S.,6,Overlap: 50.0%,,MATCH
+  4. David,6,Overlap: 50.0%,,MATCH
+  5. Zaahi,6,Overlap: 50.0%,,MATCH
+,,,,SEPARATOR
+Sarah,8,ECE 110; ECE 210; Math 257; Math 285; PHYS 211; PHYS 213; PHYS 214; STAT 400,7,MAIN_TUTOR
+  1. Johan,6,Overlap: 75.0%,,MATCH
+  2. Alex S.,5,Overlap: 62.5%,,MATCH
+  3. Kewal,5,Overlap: 62.5%,,MATCH
+  4. Luke,5,Overlap: 62.5%,,MATCH
+  5. Rick,5,Overlap: 62.5%,,MATCH
+  6. Ryan,5,Overlap: 62.5%,,MATCH
+  7. Zaahi,5,Overlap: 62.5%,,MATCH
+,,,,SEPARATOR
+Sean,19,BIOE 202; BIOE 206; BIOE 210; BIOE 302; BIOE 303; CHEM 102; CHEM 104; CHEM 232; CHEM 312; CS 124; CS 128; CS 173; CS 225; CS 340; CS 361; CS 374; MCB 150; Math 285; PHYS 211,6,MAIN_TUTOR
+  1. Sophia,10,Overlap: 52.6%,,MATCH
+  2. Aparna,6,Overlap: 31.6%,,MATCH
+  3. Avni,6,Overlap: 31.6%,,MATCH
+  4. Teddy,6,Overlap: 31.6%,,MATCH
+  5. Andy,5,Overlap: 26.3%,,MATCH
+  6. Maanvi,5,Overlap: 26.3%,,MATCH
+,,,,SEPARATOR
+Sophia,19,BIOE 201; BIOE 202; BIOE 205; BIOE 206; BIOE 210; CHEM 101; CHEM 102; CHEM 104; CHEM 232; CS 124; CS 128; Math 112; Math 115; Math 220; Math 221; Math 231; Math 285; PHYS 100; PHYS 211,8,MAIN_TUTOR
+  1. Lucy P.,10,Overlap: 52.6%,,MATCH
+  2. Sean,10,Overlap: 52.6%,,MATCH
+  3. Adelaide,8,Overlap: 42.1%,,MATCH
+  4. Akshay,8,Overlap: 42.1%,,MATCH
+  5. Avni,7,Overlap: 36.8%,,MATCH
+  6. Clive,7,Overlap: 36.8%,,MATCH
+  7. Jiya,7,Overlap: 36.8%,,MATCH
+  8. Lucy,7,Overlap: 36.8%,,MATCH
+,,,,SEPARATOR
+Sushrut,9,ECE 110; ECE 120; ECE 210; ECE 220; ECE 313; ECE 385; Math 231 (E); Math 257; Math 285,10,MAIN_TUTOR
+  1. Johan,7,Overlap: 77.8%,,MATCH
+  2. Rick,6,Overlap: 66.7%,,MATCH
+  3. Kewal,5,Overlap: 55.6%,,MATCH
+  4. Sarah,4,Overlap: 44.4%,,MATCH
+  5. Camille W.,3,Overlap: 33.3%,,MATCH
+  6. Kristie,3,Overlap: 33.3%,,MATCH
+  7. Lucas,3,Overlap: 33.3%,,MATCH
+  8. Luke,3,Overlap: 33.3%,,MATCH
+  9. Regina,3,Overlap: 33.3%,,MATCH
+  10. Rohan,3,Overlap: 33.3%,,MATCH
+,,,,SEPARATOR
+Teddy,10,CHEM 102; CHEM 104; CHEM 232; CS 124; Math 241; Math 285; PHYS 211; TAM 210; TAM 211; TAM 212,13,MAIN_TUTOR
+  1. Lucy P.,6,Overlap: 60.0%,,MATCH
+  2. Lydia,6,Overlap: 60.0%,,MATCH
+  3. Sean,6,Overlap: 60.0%,,MATCH
+  4. Sophia,6,Overlap: 60.0%,,MATCH
+  5. Akshay,5,Overlap: 50.0%,,MATCH
+  6. Alex G.,5,Overlap: 50.0%,,MATCH
+  7. Aparna,5,Overlap: 50.0%,,MATCH
+  8. Camila,5,Overlap: 50.0%,,MATCH
+  9. Charlie,5,Overlap: 50.0%,,MATCH
+  10. Diego,5,Overlap: 50.0%,,MATCH
+  11. Gabe,5,Overlap: 50.0%,,MATCH
+  12. Lucas,5,Overlap: 50.0%,,MATCH
+  13. Zaahi,5,Overlap: 50.0%,,MATCH
+,,,,SEPARATOR
+"Weiqiong ""Liz""",5,ECE 120; Math 241; Math 285; PHYS 213; PHYS 214,8,MAIN_TUTOR
+  1. Johan,5,Overlap: 100.0%,,MATCH
+  2. Aarnav,4,Overlap: 80.0%,,MATCH
+  3. Alex S.,4,Overlap: 80.0%,,MATCH
+  4. Camille W.,4,Overlap: 80.0%,,MATCH
+  5. David,4,Overlap: 80.0%,,MATCH
+  6. Kewal,4,Overlap: 80.0%,,MATCH
+  7. Luke,4,Overlap: 80.0%,,MATCH
+  8. Rick,4,Overlap: 80.0%,,MATCH
+,,,,SEPARATOR
+Yaseen,6,CHEM 101; CHEM 102; Math 220; Math 221; Math 231; PHYS 211,6,MAIN_TUTOR
+  1. Sophia,6,Overlap: 100.0%,,MATCH
+  2. Adelaide,5,Overlap: 83.3%,,MATCH
+  3. Clive,5,Overlap: 83.3%,,MATCH
+  4. Emma,5,Overlap: 83.3%,,MATCH
+  5. Lydia,5,Overlap: 83.3%,,MATCH
+  6. Meredith,5,Overlap: 83.3%,,MATCH
+,,,,SEPARATOR
+Yashwanth,5,CHEM 102; ME 170; Math 231 (E); Math 241; PHYS 212,8,MAIN_TUTOR
+  1. Grace,4,Overlap: 80.0%,,MATCH
+  2. Aaron,3,Overlap: 60.0%,,MATCH
+  3. Aman,3,Overlap: 60.0%,,MATCH
+  4. Bella,3,Overlap: 60.0%,,MATCH
+  5. Kewal,3,Overlap: 60.0%,,MATCH
+  6. Luke,3,Overlap: 60.0%,,MATCH
+  7. Nico,3,Overlap: 60.0%,,MATCH
+  8. Norita,3,Overlap: 60.0%,,MATCH
+,,,,SEPARATOR
+Zaahi,12,CS 124; ME 200; Math 257; Math 285; PHYS 100; PHYS 211; PHYS 212; PHYS 213; PHYS 214; TAM 210; TAM 212; TAM 251,11,MAIN_TUTOR
+  1. Aman,9,Overlap: 75.0%,,MATCH
+  2. Aidan,7,Overlap: 58.3%,,MATCH
+  3. Bella,7,Overlap: 58.3%,,MATCH
+  4. Lucas,7,Overlap: 58.3%,,MATCH
+  5. Aarnav,6,Overlap: 50.0%,,MATCH
+  6. Aparna,6,Overlap: 50.0%,,MATCH
+  7. Diego,6,Overlap: 50.0%,,MATCH
+  8. Logan,6,Overlap: 50.0%,,MATCH
+  9. Lucy P.,6,Overlap: 50.0%,,MATCH
+  10. Luke,6,Overlap: 50.0%,,MATCH
+  11. Ryan,6,Overlap: 50.0%,,MATCH
+,,,,SEPARATOR

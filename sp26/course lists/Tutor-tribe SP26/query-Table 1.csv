@@ -1,0 +1,7 @@
+"select p.PageID, p.PageTitle, d.FieldValue",,,,
+from sitemanager.dbo.pages p,,,,
+LEFT JOIN sitemanager.dbo.page_data d ON p.PageID = d.PageID,,,,
+,,,,
+WHERE p.BookID = 1406,,,,
+AND d.FieldKey = 'subjects',,,,
+"ORDER BY p.PageTitle, d.FieldValue",,,,
