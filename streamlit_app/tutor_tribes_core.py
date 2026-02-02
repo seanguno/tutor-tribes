@@ -134,10 +134,14 @@ def perform_matching(
     max_matches_per_tutor: int = 4,
     min_overlap_threshold: float = 0.5,
     max_assignments_per_tutor: int = 5,
-    special_tutors: Optional[List[str]] = None
+    special_tutors: Optional[List[str]] = None,
+    tutor_majors: Optional[Dict[str, str]] = None,
+    tutor_ece_courses: Optional[Dict[str, Set[str]]] = None,
+    tutor_cs_courses: Optional[Dict[str, Set[str]]] = None
 ) -> Dict[str, Dict]:
     """
     Perform iterative matching with "weakest first" strategy.
+    Prioritizes matches based on same ECE/CS courses for ECE/CS majors.
     
     Args:
         results: Dictionary from calculate_all_overlaps
@@ -145,12 +149,21 @@ def perform_matching(
         min_overlap_threshold: Minimum overlap score (0.0-1.0) to consider
         max_assignments_per_tutor: Maximum times a tutor can appear in others' match lists
         special_tutors: List of tutor names that get special handling
+        tutor_majors: Dictionary mapping tutor name -> 'ECE', 'CS', or None
+        tutor_ece_courses: Dictionary mapping tutor name -> set of ECE courses they teach
+        tutor_cs_courses: Dictionary mapping tutor name -> set of CS courses they teach
     
     Returns:
         Dictionary with final match assignments
     """
     if special_tutors is None:
         special_tutors = []
+    if tutor_majors is None:
+        tutor_majors = {}
+    if tutor_ece_courses is None:
+        tutor_ece_courses = {}
+    if tutor_cs_courses is None:
+        tutor_cs_courses = {}
     
     tutor_assignments = defaultdict(int)
     final_results = {}
@@ -196,17 +209,71 @@ def perform_matching(
             'match_count': 0
         }
     
+    # Pre-sort all_overlaps with boost applied for each tutor
+    # This ensures same-course matches are prioritized from the start
+    for person in results:
+        current_tutor_major = tutor_majors.get(person, None)
+        current_tutor_ece_courses = tutor_ece_courses.get(person, set())
+        current_tutor_cs_courses = tutor_cs_courses.get(person, set())
+        
+        # Apply boost to all overlaps and re-sort
+        boosted_overlaps = []
+        for overlap in results[person]['all_overlaps']:
+            priority_boost = 0.0
+            potential_match = overlap['person']
+            
+            # For ECE tutors: boost if potential match teaches any of the same ECE courses
+            if current_tutor_major == 'ECE' and current_tutor_ece_courses:
+                potential_match_ece_courses = tutor_ece_courses.get(potential_match, set())
+                if current_tutor_ece_courses.intersection(potential_match_ece_courses):
+                    priority_boost = 100.0
+            
+            # For CS tutors: boost if potential match teaches any of the same CS courses
+            elif current_tutor_major == 'CS' and current_tutor_cs_courses:
+                potential_match_cs_courses = tutor_cs_courses.get(potential_match, set())
+                if current_tutor_cs_courses.intersection(potential_match_cs_courses):
+                    priority_boost = 100.0
+            
+            # Create boosted overlap
+            boosted_overlap = overlap.copy()
+            boosted_overlap['boosted_score'] = overlap['overlap_score'] + priority_boost
+            boosted_overlaps.append(boosted_overlap)
+        
+        # Sort by boosted score (descending), then by original overlap score
+        boosted_overlaps.sort(key=lambda x: (x['boosted_score'], x['overlap_score']), reverse=True)
+        
+        # Replace all_overlaps with the boosted and sorted version
+        results[person]['all_overlaps'] = boosted_overlaps
+    
     # Special handling for special tutors
+    # Note: all_overlaps is already pre-sorted by boosted_score, so same-course matches come first
     for person in special_tutors:
         if person in results:
             data = results[person]
-            good_overlaps = [
-                overlap for overlap in data['all_overlaps']
-                if overlap['overlap_score'] > min_overlap_threshold
-            ]
+            
+            good_overlaps = []
+            for overlap in data['all_overlaps']:
+                # Get the boosted score (set during pre-sorting)
+                boosted_score = overlap.get('boosted_score', overlap['overlap_score'])
+                
+                # For same-course matches (boosted), allow slightly lower overlap scores
+                # This ensures ECE/CS tutors can match with others who teach the same courses
+                is_boosted = boosted_score > overlap['overlap_score']
+                threshold_to_use = min_overlap_threshold * 0.5 if is_boosted else min_overlap_threshold
+                
+                if overlap['overlap_score'] > threshold_to_use:
+                    # Use the pre-calculated boosted_score (set during pre-sorting)
+                    boosted_overlap = overlap.copy()
+                    if 'boosted_score' not in boosted_overlap:
+                        boosted_overlap['boosted_score'] = overlap['overlap_score']
+                    good_overlaps.append(boosted_overlap)
+            
+            # Sort by boosted score, then by original overlap score
+            # (This maintains the pre-sorted order but ensures consistency)
+            good_overlaps.sort(key=lambda x: (x['boosted_score'], x['overlap_score']), reverse=True)
             
             if good_overlaps:
-                # Assign ALL good matches immediately
+                # Assign ALL good matches immediately (prioritizing same-course matches)
                 for match in good_overlaps:
                     if (tutor_assignments[match['person']] < max_assignments_per_tutor
                         and len(final_results[person]['top_matches']) < max_matches_per_tutor):
@@ -233,18 +300,37 @@ def perform_matching(
             
             available_matches = []
             
+            # Get current tutor's major and courses
+            current_tutor_major = tutor_majors.get(person, None)
+            current_tutor_ece_courses = tutor_ece_courses.get(person, set())
+            current_tutor_cs_courses = tutor_cs_courses.get(person, set())
+            
             # Look for available tutors
+            # Note: all_overlaps is already pre-sorted by boosted_score from the pre-sorting step
             for overlap in data['all_overlaps']:
                 potential_match = overlap['person']
                 
+                # Get the boosted score (set during pre-sorting)
+                boosted_score = overlap.get('boosted_score', overlap['overlap_score'])
+                
                 # Check if this tutor is available and meets criteria
+                # For same-course matches (boosted), allow slightly lower overlap scores
+                # This ensures ECE/CS tutors can match with others who teach the same courses
+                is_boosted = boosted_score > overlap['overlap_score']
+                threshold_to_use = min_overlap_threshold * 0.7 if is_boosted else min_overlap_threshold
+                
                 if (tutor_assignments[potential_match] < max_assignments_per_tutor and
-                    overlap['overlap_score'] > min_overlap_threshold and
+                    overlap['overlap_score'] > threshold_to_use and
                     potential_match not in [m['person'] for m in current_matches]):
-                    available_matches.append(overlap)
+                    
+                    # Use the pre-calculated boosted_score
+                    boosted_overlap = overlap.copy()
+                    if 'boosted_score' not in boosted_overlap:
+                        boosted_overlap['boosted_score'] = overlap['overlap_score']
+                    available_matches.append(boosted_overlap)
             
-            # Sort available matches by overlap score (descending)
-            available_matches.sort(key=lambda x: x['overlap_score'], reverse=True)
+            # Sort available matches by boosted score (descending), then by original overlap score
+            available_matches.sort(key=lambda x: (x['boosted_score'], x['overlap_score']), reverse=True)
             
             # Take the best available match for this pass
             if available_matches:

@@ -43,11 +43,13 @@ st.markdown("""
 DEFAULT_EXCLUDE_LIST = [
     'Emma', 'Adelaide', 'Regina', 'Anthony', 'Geo', 'Lucy P.',
     'Maya', 'Grace', 'Lydia', 'Meredith', 'Rohan', 'Clive', 'Sophia', 'Noah',
-    'Lucy', 'Maria', 'Jacob', 'Gabe', 'Kristie', 'Lukas', 'Pat', 'Sarah', 'Yash'
+    'Lucy', 'Maria', 'Jacob', 'Gabe', 'Kristie', 'Lukas', 'Pat', 'Sarah', 'Yash', 'Aaron'
 ]
 
 DEFAULT_BONUS_COURSES = [
-    'AE 140', 'AE 202', 'AE 311', 'AE 321', 'AE 323', 'AE 352',
+    'AE 140', 'AE 202', 'AE 311', 'AE 321', 'AE 323', 'AE 352', 'BIOE 201', 'BIOE 205',
+    'CHEM 104', 'CHEM 232', 'ECE 220', 'ECE 340', 'ECE 364', 'MCB 150', 'MSE 182',
+
     'BIOE 202', 'BIOE 206', 'BIOE 210', 'BIOE 302', 'BIOE 303', 'BIOE 310', 'BIOE 360', 'BIOE 414', 'CS 124',
     'CS 128', 'CS 173', 'CS 225', 'CS 233', 'CS 340', 'CS 357', 'CS 361', 'CS 374',
     'ECE 310', 'ECE 313', 'ECE 329', 'ECE 342', 'ECE 374', 'ECE 385',
@@ -58,7 +60,7 @@ DEFAULT_BONUS_COURSES = [
     'CHEM 312'
 ]
 
-DEFAULT_SPECIAL_TUTORS = ['Jiya', 'Johail', 'Diego', 'Aman', 'Amy']
+DEFAULT_SPECIAL_TUTORS = ['Hriday', 'Jiya', 'Johail', 'Diego', 'Aman', 'Amy']
 
 def parse_list_input(text: str) -> list:
     """Parse comma or newline-separated list from text input."""
@@ -84,6 +86,13 @@ def main():
             type=['csv'],
             help="Upload a CSV file with columns: PageTitle, FieldValue"
         )
+
+        st.subheader("Major File Upload")
+        major_file = st.file_uploader(
+                "Choose a CSV file",
+                type=['csv'],
+                help="Upload a CSV file with columns: First name, Last name, netid, Major"
+        )
         
         st.subheader("Analysis Settings")
         max_matches = st.slider(
@@ -98,9 +107,9 @@ def main():
             "Minimum overlap threshold",
             min_value=0.0,
             max_value=1.0,
-            value=0.5,
-            step=0.1,
-            format="%.1f",
+            value=0.51,
+            step=0.01,
+            format="%.2f",
             help="Minimum overlap score (0.0-1.0) required for a match"
         )
         
@@ -108,7 +117,7 @@ def main():
             "Max assignments per tutor",
             min_value=1,
             max_value=10,
-            value=5,
+            value=4,
             help="Maximum times a tutor can appear in others' match lists"
         )
         
@@ -120,6 +129,32 @@ def main():
         try:
             # Load and preview data
             df = pd.read_csv(uploaded_file)
+
+            # Load major data (if provided)
+            tutor_majors = {}  # Maps tutor name (First name) -> 'ECE', 'CS', or None
+            tutor_ece_courses = {}  # Maps tutor name -> set of ECE courses they teach
+            tutor_cs_courses = {}  # Maps tutor name -> set of CS courses they teach
+            
+            if major_file is not None:
+                try:
+                    major_df = pd.read_csv(major_file)
+                    
+                    # Validate required columns in major file
+                    if 'First name' not in major_df.columns or 'Major' not in major_df.columns:
+                        st.warning("⚠️ Major file missing required columns ('First name', 'Major'). Course prioritization will be disabled.")
+                    else:
+                        # Create mapping from First name to major type
+                        for _, row in major_df.iterrows():
+                            first_name = str(row['First name']).strip()
+                            major = str(row['Major']).strip()
+                            
+                            if major == "CompE" or major == "EE":
+                                tutor_majors[first_name] = 'ECE'
+                            elif major == "CS":
+                                tutor_majors[first_name] = 'CS'
+                            # If major is not ECE or CS, leave as None (default)
+                except Exception as e:
+                    st.warning(f"⚠️ Error reading major file: {str(e)}. Course prioritization will be disabled.")
             
             # Validate required columns
             required_columns = ['PageTitle', 'FieldValue']
@@ -260,6 +295,31 @@ def main():
                         
                         st.success(f"✅ Loaded {len(person_subjects)} tutors")
                         
+                        # Extract ECE and CS courses for each tutor
+                        # Match tutors by PageTitle (which should match First name from major file)
+                        # Include both core and bonus subjects since many CS courses are bonus courses
+                        # Get all unique tutor names from both core and bonus subjects
+                        all_tutor_names = set(person_subjects.keys()) | set(person_bonus_subjects.keys())
+                        
+                        for tutor_name in all_tutor_names:
+                            # Get tutor's major type (using PageTitle to match First name)
+                            major_type = tutor_majors.get(tutor_name, None)
+                            
+                            # Get all courses (core + bonus) for this tutor
+                            core_courses = person_subjects.get(tutor_name, set())
+                            bonus_courses = person_bonus_subjects.get(tutor_name, set())
+                            all_courses = core_courses | bonus_courses
+                            
+                            # Extract ECE courses (courses starting with "ECE ") from both core and bonus
+                            ece_courses = {course for course in all_courses 
+                                         if course.startswith("ECE ")}
+                            tutor_ece_courses[tutor_name] = ece_courses
+                            
+                            # Extract CS courses (courses starting with "CS ") from both core and bonus
+                            cs_courses = {course for course in all_courses 
+                                        if course.startswith("CS ")}
+                            tutor_cs_courses[tutor_name] = cs_courses
+                        
                         # Calculate overlaps
                         with st.spinner("Calculating overlaps..."):
                             results = calculate_all_overlaps(person_subjects, person_bonus_subjects)
@@ -271,7 +331,10 @@ def main():
                                 max_matches_per_tutor=max_matches,
                                 min_overlap_threshold=min_overlap,
                                 max_assignments_per_tutor=max_assignments,
-                                special_tutors=special_tutors
+                                special_tutors=special_tutors,
+                                tutor_majors=tutor_majors,
+                                tutor_ece_courses=tutor_ece_courses,
+                                tutor_cs_courses=tutor_cs_courses
                             )
                         
                         # Store results in session state
