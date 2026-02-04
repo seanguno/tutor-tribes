@@ -42,8 +42,8 @@ st.markdown("""
 # Default configuration
 DEFAULT_EXCLUDE_LIST = [
     'Emma', 'Adelaide', 'Regina', 'Anthony', 'Geo', 'Lucy P.',
-    'Maya', 'Grace', 'Lydia', 'Meredith', 'Rohan', 'Clive', 'Sophia', 'Noah',
-    'Lucy', 'Maria', 'Jacob', 'Gabe', 'Kristie', 'Lukas', 'Pat', 'Sarah', 'Yash', 'Aaron'
+    'Maya', 'Grace', 'Meredith', 'Rohan', 'Clive', 'Sophia', 'Noah',
+    'Lucy', 'Maria', 'Jacob', 'Kristie', 'Lukas', 'Pat', 'Sarah', 'Yash', 'Aaron'
 ]
 
 DEFAULT_BONUS_COURSES = [
@@ -60,7 +60,7 @@ DEFAULT_BONUS_COURSES = [
     'CHEM 312'
 ]
 
-DEFAULT_SPECIAL_TUTORS = ['Hriday', 'Jiya', 'Johail', 'Diego', 'Aman', 'Amy']
+DEFAULT_SPECIAL_TUTORS = ['Hriday', 'Jiya', 'Johail', 'Diego', 'Aman', 'Amy', 'Gabe', 'Akshay', 'Alex G.']
 
 def parse_list_input(text: str) -> list:
     """Parse comma or newline-separated list from text input."""
